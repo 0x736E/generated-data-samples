@@ -1,1000 +1,1002 @@
-{"cloze_1":"694a6feabd1b6e87804d1e6f0213aec2"}
-{"cloze_1":"6ca275af8c04e0a6159a36893dc70766"}
-{"cloze_1":"9c5e8dcad96a94ae720392c48c912ef9"}
-{"cloze_1":"3177f41ff5d7bf7d93f3791f5e86b46f"}
-{"cloze_1":"731cb1941aafe0d2859fa99a0395907c"}
-{"cloze_1":"443a764a676de7e42fac1bb240dfce1e"}
-{"cloze_1":"266e6bfba2b9e19ba02a28d42a4eb568"}
-{"cloze_1":"673c8e6ba5d65a79fb36e8cd99a5032a"}
-{"cloze_1":"b13db75bc46105cdbd1fcb4c1603b42b"}
-{"cloze_1":"3431c4471570928759eec1bb52f8e36d"}
-{"cloze_1":"73233ac6fa72d099b0db4c99131c690c"}
-{"cloze_1":"231299285278b307508dbae6bfcea434"}
-{"cloze_1":"289ae9168e30ad6ebd79f33a32346021"}
-{"cloze_1":"a22cb0d3b89f99715d80d5df967cc440"}
-{"cloze_1":"aaac689ec7f66d541324efd9a4ece512"}
-{"cloze_1":"68762ff468606b362cf721fcfdc42ea8"}
-{"cloze_1":"62827c3462ed649ebbed57934f458035"}
-{"cloze_1":"a24d8fb8253ecded67571ad8c8db25c4"}
-{"cloze_1":"b4f5f0ec3431023c0ca65b551f80f37c"}
-{"cloze_1":"f75731b609e3409335580c5a2bfdd279"}
-{"cloze_1":"44d1a7dff652369a3b6e41533f939f29"}
-{"cloze_1":"f837828adda3e12649238038169be39b"}
-{"cloze_1":"22f148941e06dbec4d62ef97bef10891"}
-{"cloze_1":"4e89a969f7f5eb6e42b268c91f7b5379"}
-{"cloze_1":"071eeb278be722287b51a48519423bfe"}
-{"cloze_1":"5757c2d4cdecc80d6bed7d4c7da6f8b2"}
-{"cloze_1":"ce7b6338143065e02dac9b7edc5ca7b0"}
-{"cloze_1":"6d2ffd576c51d6642316b70e89ed60a0"}
-{"cloze_1":"9b922bbee883a34f10932b4405f7f366"}
-{"cloze_1":"a489c739da296915e937f1e63108918c"}
-{"cloze_1":"1487de7f9f3ec82fd45a849501aaa71e"}
-{"cloze_1":"ba0007c3b40a362b85d622d10e9fb0ca"}
-{"cloze_1":"215ffb53a054f5484cf1ab59aa2a7f47"}
-{"cloze_1":"dd0d3f2d57f909f29bd58fca0b0b77c8"}
-{"cloze_1":"de939d99ba8b6de3dbbac51679a3163b"}
-{"cloze_1":"52b304feb0ef750564a57837f760c807"}
-{"cloze_1":"8986fa1114972fb30fbf29c07d3b3d8d"}
-{"cloze_1":"c2f759994ac0e1b079b4fae3e151728b"}
-{"cloze_1":"42d1953ab1358f16a46c57c528000251"}
-{"cloze_1":"ffe041b8889a581bf2605ccf959e569e"}
-{"cloze_1":"689f6ef1587875ead3b6209cbe83e6fe"}
-{"cloze_1":"588cf0838abe612265b11dab95bc5dce"}
-{"cloze_1":"4c5bbf080bd1d7027b48b75e9b89c2e3"}
-{"cloze_1":"5abe79a814fa49a1b2b304026b636a0b"}
-{"cloze_1":"9873200b28d2aeb9cbed6c8234481b7b"}
-{"cloze_1":"f370d59d469e439ce83fd2f1674da904"}
-{"cloze_1":"367bc4252bcce61d47726653ce715221"}
-{"cloze_1":"e385b7282991b06e58cb9bdadcd6ea20"}
-{"cloze_1":"89f293bbd694f7cdf95eea5dd22f67be"}
-{"cloze_1":"d5b8bc0bba24662edde909dd313c0702"}
-{"cloze_1":"217f7f610ee0e42302ddbd3be878c0dc"}
-{"cloze_1":"06aaca3d4d4a1dcdb082dca59f6358c6"}
-{"cloze_1":"10714119ef44b2fd71aae5a3e4d9b58f"}
-{"cloze_1":"1a33228d9a9a88e7a491b7ebae85ff85"}
-{"cloze_1":"04d8782f3d12ff61f1220c60859d0673"}
-{"cloze_1":"116a383bf91fc0b0810aaaeb3df8e72b"}
-{"cloze_1":"ab0c5e93b7f1ac7d72b20c6348961070"}
-{"cloze_1":"1ae1bb87e6053e5430b2c2cc52f13423"}
-{"cloze_1":"9c2b620515d5898f10eb3d4fbdf9ef54"}
-{"cloze_1":"8c08fab923a3446c65e972a5a026bef3"}
-{"cloze_1":"769a46facaae710555527459e6df5d9a"}
-{"cloze_1":"041167e5757d458d4370e5c7a00adece"}
-{"cloze_1":"b891398aa3b7b4484d5ded233dd4d55c"}
-{"cloze_1":"132fd6be895b76fc105ff93d97e027a1"}
-{"cloze_1":"dbb8f241cf185efcd98368097d20f334"}
-{"cloze_1":"768e2245359a281d13e8416a0ed14e4b"}
-{"cloze_1":"e1f7ce4e8d79670956471f8ea6d1bb2a"}
-{"cloze_1":"42795c214dea739010990f97b2eaf493"}
-{"cloze_1":"772bd1f3c2766033db3e8bdc2b01e88a"}
-{"cloze_1":"387fc2cfd66057f80e26af655b4a368e"}
-{"cloze_1":"a15d9ad904b770b7b62b19298c87729e"}
-{"cloze_1":"4363ab5f0a546ea86d6a323f275f4474"}
-{"cloze_1":"4526749d3a70183516105917fd80c1d3"}
-{"cloze_1":"fb1d83e22a18708bc5c3866376f0b5b6"}
-{"cloze_1":"e711ed5e53c1529cfc1281654a736f79"}
-{"cloze_1":"18b0348cbf7d859bc3f1638d3e330970"}
-{"cloze_1":"33a16cbb6350db8a52522783668f8cd8"}
-{"cloze_1":"6e7f5da2c469aaf3fbe5bd554e3174ba"}
-{"cloze_1":"0b7fee2e789e0ddc367999e2f032bcf3"}
-{"cloze_1":"f8545904bb02e3f12d64d4e481d79aff"}
-{"cloze_1":"209f128835b803c2de9e3039ca34f213"}
-{"cloze_1":"601c365664ea835c36f94ebbce39b6ab"}
-{"cloze_1":"668309d4a15bbf37eaaf261cf1568964"}
-{"cloze_1":"d485d98f0e96ebc2b54b04756c02f5b4"}
-{"cloze_1":"769fd51ce3bb1eb9c83dc4e29386644d"}
-{"cloze_1":"ff3073938f82efe4986c5a8ec8dd659d"}
-{"cloze_1":"271a74a693c5421107bbdc1fe9725a45"}
-{"cloze_1":"1ab30e93609523bada3cab72615136c6"}
-{"cloze_1":"d173a1779adb1a8b5bdb65f48a4514c1"}
-{"cloze_1":"6f221b88cab49f16ccf726fb43a400f4"}
-{"cloze_1":"b150d614afa7940b5f00de5081c17327"}
-{"cloze_1":"4f71e9ce59307bdbbd6cba5c3c636dda"}
-{"cloze_1":"c9179233cd0068259f330f2fb89605aa"}
-{"cloze_1":"5092b89f10736d75c22cb370118c1941"}
-{"cloze_1":"c4fcbe71f79d463cd939290f192f6d25"}
-{"cloze_1":"6c7c010913a9e3f2685d1cbf18b64a03"}
-{"cloze_1":"33e9e9626bed763048014c5df65af5ef"}
-{"cloze_1":"a625642151b5e36ccf5fb58b4891b26e"}
-{"cloze_1":"a7ce9c11937baaefb67652f020bd0776"}
-{"cloze_1":"b22051ab663ab374c05c3ea929047131"}
-{"cloze_1":"d289ae47e7e2c413f8b20ba169a1aca1"}
-{"cloze_1":"d2329666ab531870fee7194c039b94ab"}
-{"cloze_1":"ed792864f96b5b81374f096866484a21"}
-{"cloze_1":"0cdf4bb623de8a3955d0f7154d3e81a3"}
-{"cloze_1":"e80d99a06b9d93f6041563623dc04832"}
-{"cloze_1":"5716aec118eb90020f5a636c8d30395b"}
-{"cloze_1":"72ff46e79962c364c3fa0074e2575706"}
-{"cloze_1":"6219e2afc8d43ea3dc00b77c8fdf2039"}
-{"cloze_1":"b37b0a88c176a994ba85c4b6d2b02799"}
-{"cloze_1":"de6fa67fee9e41d97d2c6f21dc6c205c"}
-{"cloze_1":"82135e02df2d199dd1d0b81be3c1b442"}
-{"cloze_1":"f80c2ab6095744542206906a222b2b19"}
-{"cloze_1":"840363ed741863813d39de6a2a8cb6d1"}
-{"cloze_1":"9e46b83d55bf95c486f0ea69750ee52a"}
-{"cloze_1":"ca0d513ae5d94bdc052d0dd800c6e85c"}
-{"cloze_1":"0f6ad79de770e3008e5a315042dea2db"}
-{"cloze_1":"f6a402fc73020f9f3264a9f86d4e65b0"}
-{"cloze_1":"85f6f05eaba6c09b04e3a8e8b49cfdc8"}
-{"cloze_1":"ecadfd83896c99009d3b3bafcfeef95d"}
-{"cloze_1":"19dfb24d6318a0eceee232f6fe99c218"}
-{"cloze_1":"d31c8ec7758b130b9acc7a60617e9216"}
-{"cloze_1":"831e5c45f0eab4449a04021302b4e1d4"}
-{"cloze_1":"0ec2c6c2a3800f9f45ced9bcc882c9d9"}
-{"cloze_1":"920603cb12c881bec6234097564c8c14"}
-{"cloze_1":"e0eabf3275cdc3f429c16a20c9c80171"}
-{"cloze_1":"0c515116b54928a8b64e342753815e21"}
-{"cloze_1":"dbd43265fb4a34e1d6e8dcc539a14cf3"}
-{"cloze_1":"3528547e3dfb2ce6a589afd5ac72f75e"}
-{"cloze_1":"84065a1a43d2b49b13859734bfc561f6"}
-{"cloze_1":"7319118ab25ce35c3bbae6f3e457b7bf"}
-{"cloze_1":"a30f4c8290df95e531ce0047eb17b5de"}
-{"cloze_1":"83ae93dad435f1315ea5d7bb796ffc6d"}
-{"cloze_1":"88cd8d2038959ab525c7e70edff4ea68"}
-{"cloze_1":"11019e0c55d6e275b376a759a7760067"}
-{"cloze_1":"a78e79f68e8d7969128415c69229d6fe"}
-{"cloze_1":"8d78c0be765c6db93e8d1a5ec9827516"}
-{"cloze_1":"5692de25802fe8c6e36485f3832a0701"}
-{"cloze_1":"88af3291f3a4269042a192ad2730d5ec"}
-{"cloze_1":"2a8828e323c27b34cd3c5853b440ffa7"}
-{"cloze_1":"ab2e448208954a71d2d1f509f399302c"}
-{"cloze_1":"5f396a179377bce74baa2917f925f548"}
-{"cloze_1":"a15a1bd4ccf2f93454c11e7bfce1bbcd"}
-{"cloze_1":"208dfa077dcc84b9457c2dd4e2438e4c"}
-{"cloze_1":"0601c53b9d9972860ecb050024fb1736"}
-{"cloze_1":"b502c1a86c5cd6aeb2dc392686f344d5"}
-{"cloze_1":"65f3352145fd20cf0767bf17d9f6e332"}
-{"cloze_1":"f3b5aa21aacf95c3b537fed2810e1c82"}
-{"cloze_1":"40785b7bdc350f5f2f2fba7561c71f4a"}
-{"cloze_1":"682bda60e4cc390b888bda6c22bc8ca2"}
-{"cloze_1":"45d5f3f7d3b8c01d59f541a56421c861"}
-{"cloze_1":"d8e507a7a9d43208cdb0bb64c1241f49"}
-{"cloze_1":"e04f2fb4779e375e343ee000de0b77db"}
-{"cloze_1":"1b474aa89ddd5128642748657c222feb"}
-{"cloze_1":"42573a53b17f840abbbe8c2f21d38cd1"}
-{"cloze_1":"8311f601a3aa48f3f9d2f3ae7d525e4b"}
-{"cloze_1":"b6ba13594f6f6b4c981c54ddf94fab10"}
-{"cloze_1":"80145e4af1f9a17556cf4d74860a0b83"}
-{"cloze_1":"df53c4f3c604e24d2c02ff351e9cc4d7"}
-{"cloze_1":"63cf834f56073ab056a85a7c8973ba96"}
-{"cloze_1":"48b76fea687f8681a1031fd30968f177"}
-{"cloze_1":"2bfaf70f00da850ce568f5cdb78ab24f"}
-{"cloze_1":"8db1fe86eaffbdb24d81a5938e26ccb5"}
-{"cloze_1":"3ee17564d1f94cee917c3d18f4546900"}
-{"cloze_1":"7cd34746210add592d280cf5572353dc"}
-{"cloze_1":"17736ccdb5b3ed680651df98f91fcacc"}
-{"cloze_1":"bf74be5d760e30f39691605fa255d92c"}
-{"cloze_1":"30aaa2257352b6402f33c4010673ed16"}
-{"cloze_1":"4cc7bc1f1e2050f52d311934dd4f5975"}
-{"cloze_1":"77565a09db536f084967f55ae9319e8a"}
-{"cloze_1":"92a2d0fd49b56bcd33ce55030f3c6779"}
-{"cloze_1":"eb121549f21461c987e24c15a60c64fa"}
-{"cloze_1":"2557673a6b1e2291576c73cb442e1ab9"}
-{"cloze_1":"76e2ed0dcd850c91cdf5dcf1c7e919bc"}
-{"cloze_1":"5042b3698d6939419038d7fc20fb7943"}
-{"cloze_1":"911396bdaa4b94d9356f2b086e0a1909"}
-{"cloze_1":"58acd96b3f4a2a6aabdcfddd4d7e4421"}
-{"cloze_1":"4f8828a339f5845704c28929e61d8487"}
-{"cloze_1":"d37829a7c178276383f0bae915126a58"}
-{"cloze_1":"994bf08834cce952182cf976f68f7f4b"}
-{"cloze_1":"22528b80f1aefc3945d2e13aed345467"}
-{"cloze_1":"ce7141c6f30890a578afac9e79d15804"}
-{"cloze_1":"80a380dd502efc8ba54428eb0effeb4d"}
-{"cloze_1":"9648b27108350bc1bbd03d7f35110fa1"}
-{"cloze_1":"a5729f5144166c33fa2f629c0e83b7c5"}
-{"cloze_1":"2a87db9c19774b2ae586344ea1282581"}
-{"cloze_1":"ca0b565b03b10869e589d29899e9e0f8"}
-{"cloze_1":"1dcadd3b8356ffff2946149b4a44edd1"}
-{"cloze_1":"e5d5ac38c82a05c6888198e37e7b227a"}
-{"cloze_1":"b27ea91835303207663d2ba37f2c0a14"}
-{"cloze_1":"fcd2d6f81deed1d40699cd6e5f413e7c"}
-{"cloze_1":"fe10075d06d6311cc76e7d2f13492b22"}
-{"cloze_1":"2b7a09479014a3c65bbb855cdeb182f5"}
-{"cloze_1":"34e18f3e922be13bcb71b9ee345c5a6b"}
-{"cloze_1":"a50535f036614cae27a738b5da05b2e9"}
-{"cloze_1":"beeaab4e9a5c9a1f631bf927a3644d80"}
-{"cloze_1":"1796e3130da545cec0e3cde6ec5663c1"}
-{"cloze_1":"4d92ac309839caaf404aa3261f1422e0"}
-{"cloze_1":"525c0ebafd9cdc1cccdbfa199a61a5d6"}
-{"cloze_1":"fec5c1e2a85825049630c5840c0ae534"}
-{"cloze_1":"bbce0af8f377aa52fecbb2e9dfeb2d12"}
-{"cloze_1":"9b7c342f9d8fb1d78eda21c0c281684f"}
-{"cloze_1":"a712e39d87e4ed16347dc711b80005f8"}
-{"cloze_1":"33fe28280e55b128887757346ab42a45"}
-{"cloze_1":"3cbbe794ad8953810dde2a4ad6684b75"}
-{"cloze_1":"104b3e9113352290d17d988a3fba47b1"}
-{"cloze_1":"73af5cee0abe39abcf12bd158f443fe6"}
-{"cloze_1":"a6496cfc35be610aae1e042829ed7398"}
-{"cloze_1":"9e5b48592b5c7d400d3c5af353985274"}
-{"cloze_1":"8d839858ac1ede3000f7a705b1244a28"}
-{"cloze_1":"74e668780bdde61d589c4505aada0e91"}
-{"cloze_1":"32adadbe79e22f99affdb7915344243f"}
-{"cloze_1":"350123d336cd9c893351a73fc0f6d319"}
-{"cloze_1":"005225812dc79132949a8db5973462c2"}
-{"cloze_1":"4e156f72f153fc6e5ef1947804f831e5"}
-{"cloze_1":"f0a53b88a306b6f0693792e396035d7d"}
-{"cloze_1":"1ce27f0410495b1b9a7bef9f4c5a9e46"}
-{"cloze_1":"5e64061ff97fc7b8c53b5a6c0ea977fd"}
-{"cloze_1":"00d23cbe54da73bf960d03bb8da1d7de"}
-{"cloze_1":"b9d93e1ee578ea7332cb8b00606a1f38"}
-{"cloze_1":"ec915d9067d20e9d68239d14dea4e2d2"}
-{"cloze_1":"e7de8fd4c7bf973bb2834e2054963fee"}
-{"cloze_1":"beeb77dd00ab41fbaaf17d1412d011f9"}
-{"cloze_1":"cc14fca1db5220aa7bf6cd3f4bb82ebd"}
-{"cloze_1":"980edc81556d89a44c9cae2537074f8c"}
-{"cloze_1":"daf09530ec6ae44b852f49738c220591"}
-{"cloze_1":"d3e29f2a091c971e4a5b86e1c6144037"}
-{"cloze_1":"45cab49d211d3d30263de3925ca7971a"}
-{"cloze_1":"809f320c3a2fa73cdcf102c336fc0599"}
-{"cloze_1":"f1d5576e9fe8e8e8b6b2efcce5dcfbed"}
-{"cloze_1":"68ba213a0a875360eff114fbb208e198"}
-{"cloze_1":"a91a0a0e523347e78060ec2ebd122a80"}
-{"cloze_1":"1880b1cb0cc8750d1d58ebb09bd8416c"}
-{"cloze_1":"cd2f88a95d8886ec0b16e012b7026b84"}
-{"cloze_1":"17fc8ad62f83dba94de02100d20e69b4"}
-{"cloze_1":"106d4606919da8ad3318233bb577b655"}
-{"cloze_1":"0f7654e04e37a185c148155d1d0ff4ea"}
-{"cloze_1":"7f6cc565916c0d3ba8443c8ba99e6e4a"}
-{"cloze_1":"2f63059d56b86afdfa3d1d03a8b79ced"}
-{"cloze_1":"f3b2f509534a4cee917dc10f6ad5fcf6"}
-{"cloze_1":"398f12272287fcd9778827bf3a358dc7"}
-{"cloze_1":"397bbc59498d750d9075c8bf2a94e65e"}
-{"cloze_1":"ee43dddb6acf6a12435bde9b55db1bee"}
-{"cloze_1":"a14e1241a19cf3e45482eaf1fdc9a270"}
-{"cloze_1":"a859caf45c033673dbcdca0717ee4842"}
-{"cloze_1":"39889d5cd69dfd55ca47abf91b068218"}
-{"cloze_1":"97adcca6dc6bb7c6363e94dba6abb916"}
-{"cloze_1":"6742b624665e340f1c2a807849c0c414"}
-{"cloze_1":"9bfef0bfb98cbb88e69c2447f65a80f8"}
-{"cloze_1":"046907dc9192c80dc62989761b974312"}
-{"cloze_1":"bffad01f960dd28cc768654d72f35d93"}
-{"cloze_1":"618b9ee4c8a8c4ed493507eefd9a024a"}
-{"cloze_1":"5f01d5f1ba141d877ec82701a75231c1"}
-{"cloze_1":"9adab440611c5cce5090d0cf4143c9dc"}
-{"cloze_1":"b77b4dc3cd3d0fedf1d322a4d244f939"}
-{"cloze_1":"0b1361eb92f472ea78a0d9c8616f23c0"}
-{"cloze_1":"b8c08adce0891f09d643fd8fd5086651"}
-{"cloze_1":"eddb0edf29a85aa79abca4dd088401b4"}
-{"cloze_1":"2a34c7fe4e1c8bd974216c4022f80d58"}
-{"cloze_1":"0f361ee5fd9f7455df68a07cf534951d"}
-{"cloze_1":"850b04343abe87b00677843ddc6fada2"}
-{"cloze_1":"79f876166c2f41145f940b337b42a71c"}
-{"cloze_1":"8f6bb7aba529944bd80a7d28bfae9f39"}
-{"cloze_1":"a40517fa03474fa1c85ccf1c9796fd75"}
-{"cloze_1":"1d55558b2f206bc9a1bbc6c4223efa45"}
-{"cloze_1":"ed695d49e401c3595c63ff92e0fe273e"}
-{"cloze_1":"ba7fced8d77d7fd9d3212f94e694d000"}
-{"cloze_1":"ac23687df1fb7dd0914600e3f47fd753"}
-{"cloze_1":"9f5f3770e7b8e7c06ae8ceeea991867b"}
-{"cloze_1":"f33255cc6d3be91b15e4672b1beee997"}
-{"cloze_1":"722768179f3be31ab5f8c39f17927f0f"}
-{"cloze_1":"34215a2f1d21ebb1d2a69bcb1bf70e96"}
-{"cloze_1":"e09392e3348ec332e737c844d104cd11"}
-{"cloze_1":"af01ab2ddebdd670b2778b409fa74e18"}
-{"cloze_1":"12e9cc5596da079010d383e0858553bc"}
-{"cloze_1":"94a0b064dc117922b80c36f09eda4d9b"}
-{"cloze_1":"fefd6e94c9f7c2c3c493735d244bd052"}
-{"cloze_1":"9942f164260cf121189f8c79cafad19b"}
-{"cloze_1":"771dfff240b021bb2e5cdd3af21ef991"}
-{"cloze_1":"da3fb3fde155aa1de952922d294c5d12"}
-{"cloze_1":"be62ac73e3da9b47d35d26e7bab88236"}
-{"cloze_1":"5b9d98b415b5cdb704a58026ddc9d70c"}
-{"cloze_1":"033355b2b1ab9c1ed8538ed4e8b15e40"}
-{"cloze_1":"fcbedeb7b1958436247c8a59f42fa8c8"}
-{"cloze_1":"e2f7ba9d63b8239aff62923f61e667c9"}
-{"cloze_1":"8c2af489bff6c2246300b12fd0332303"}
-{"cloze_1":"ba2b1ead13e92d0d7aad213013cf5865"}
-{"cloze_1":"e2947c0c5e68cf2ef821e2ce9add2c90"}
-{"cloze_1":"d541792e7b01d0cef648c3e2c8510cfb"}
-{"cloze_1":"f43f2dade33346057208d74d6b2932b6"}
-{"cloze_1":"05aa85b62ffed8171edd3e0b779d2567"}
-{"cloze_1":"2d703867c2682c107765387ff644fdcd"}
-{"cloze_1":"0c9cb6d7581fdd8a992cb5930486d188"}
-{"cloze_1":"2a78e00b573cc84026d18d05d388073c"}
-{"cloze_1":"5a2f3a2eb7f0157469e70bb0d1cab5f3"}
-{"cloze_1":"6f920c2a9b9ef362c641e59e26872b45"}
-{"cloze_1":"c998a387f996bce5ef367ff2845b4710"}
-{"cloze_1":"055a9d3bc7854c6f25de090123a5a7c3"}
-{"cloze_1":"08fe6c4232f9fc0f6b732b64488957d6"}
-{"cloze_1":"8899e4224c9c9920cbaed9491f813a0e"}
-{"cloze_1":"62d48ca9ff64fef04d48af28c2315de6"}
-{"cloze_1":"ceff8360210eb807649a21c89219f0eb"}
-{"cloze_1":"2a8932c02a92d46fd72abfb60d57cbb6"}
-{"cloze_1":"b9ed4e841384f64ff773ff4819990d17"}
-{"cloze_1":"cc0fbd7db2837ee977f04a1b767f67ec"}
-{"cloze_1":"6ccfe272c8f25fd7995b9ce274e43e22"}
-{"cloze_1":"c4d2d2bf06387ace3cc0b34e04bba9d4"}
-{"cloze_1":"a02a323c6d561d45c9a29fe9a1564488"}
-{"cloze_1":"cec31fb2969532f0a865647aa36d17e4"}
-{"cloze_1":"9da1f153ae0be68cc0e16b52be28f2eb"}
-{"cloze_1":"007efd32ece948b42772710cb7f36956"}
-{"cloze_1":"3dd0d0021dc696cf1db2f7dfe5cc6633"}
-{"cloze_1":"859cdc9a1403b55816ab23ab40689e0c"}
-{"cloze_1":"64215ccba8d1196e9db5d7cffc68ab5c"}
-{"cloze_1":"b76a2006a06918359a3441302024e293"}
-{"cloze_1":"3bfdde226176c87d89029632ef8f193e"}
-{"cloze_1":"e594cc7a5e2f0092a62bb5dec05a7a06"}
-{"cloze_1":"b59a35cb45fe8983635f4c5400ca1c0c"}
-{"cloze_1":"77262a8071b149cd018848fa320910a5"}
-{"cloze_1":"73f1bf753de8e54588441be4bdc74975"}
-{"cloze_1":"63cb0b168bd838fba9ce289f5e8c08ab"}
-{"cloze_1":"f7197969f908747a2d8b9a631e7fe87f"}
-{"cloze_1":"785c972733cc1d1aef81b4fcb9ed780f"}
-{"cloze_1":"78781f30d9b6a7073fed240b9e23e6ac"}
-{"cloze_1":"ef354f26c15be3fb01f51d6022ea40c8"}
-{"cloze_1":"5482c20d28b59fdc488f5577b8a9d214"}
-{"cloze_1":"a273ec1006047ecfbe00cc42e3ba9c4e"}
-{"cloze_1":"dbb7e4159dbd0c566a7fc98ade09f868"}
-{"cloze_1":"1fe2d062636683379d6f0608ec4fc174"}
-{"cloze_1":"05760cc5d255e8cd7b8607b7af39ffff"}
-{"cloze_1":"94682829604854768e27e0082e5ff37b"}
-{"cloze_1":"57c1f977df23cf9a1eeef2b887fb38f5"}
-{"cloze_1":"9f7a2627792ea5dfe2a4e34f76dfb950"}
-{"cloze_1":"a820188a6df22399aad02aab53eb0c53"}
-{"cloze_1":"c02d1319cdcc8b5e5e5238aa01bddc33"}
-{"cloze_1":"fec0c40b7a87cbeba9273fee6aa7bee1"}
-{"cloze_1":"d593d2df1c46702d45fd9bc0f1bd2c0a"}
-{"cloze_1":"9586621012812f4cdb97a660b25b1a89"}
-{"cloze_1":"46ba761c44fc79b33f6f3f0713d15da2"}
-{"cloze_1":"3e76fdffb21896993622d7d1d710c28e"}
-{"cloze_1":"c0929ba3e4d83635986c3d96511a5c67"}
-{"cloze_1":"be38f0cb250b0a937ba3272b7acf20ad"}
-{"cloze_1":"6d953f08ddbbea08a9b770e48cb0591d"}
-{"cloze_1":"a0738943ac24ea51aa78d08f1a8a7a78"}
-{"cloze_1":"9ede48e01e33fa8e322f82e76fce629e"}
-{"cloze_1":"8226e37b16e9c119895af428fbd2d0fa"}
-{"cloze_1":"b23e4e89e86e95930363155eb46e8450"}
-{"cloze_1":"890ce2621d2d918b8184461515fc0b7f"}
-{"cloze_1":"de4f636c9f64a97f13846192fb528b11"}
-{"cloze_1":"68af88cad0e40b2e318a81e5f8b05b35"}
-{"cloze_1":"9a8c9846727234a59e5d71a525dc8fc5"}
-{"cloze_1":"707ecf73e348855a363f68d08516efde"}
-{"cloze_1":"a12bc314409e41c897f3e850a260c132"}
-{"cloze_1":"c9704f97659f6517eb4e3e2566229765"}
-{"cloze_1":"7de3968e6a5bb85faf262bc66e20d282"}
-{"cloze_1":"79e7a5a1b529a67b1e8e5301b62bc5df"}
-{"cloze_1":"d1ea2a0e9640cb0cf65feb87dfd76854"}
-{"cloze_1":"8b4ecc7541bbda2a0ead610c9e25d6c7"}
-{"cloze_1":"eeba8f9acf61589643b2ed0e699b6967"}
-{"cloze_1":"1f0b1ee5f0cf24a3a9948342c5d4043b"}
-{"cloze_1":"febf7c9e8663a8a965c6e18de51d20cd"}
-{"cloze_1":"4f21ba6ae2ac76c4d3c59de8144d10c6"}
-{"cloze_1":"ff39823f24e50902da401032871c5ad1"}
-{"cloze_1":"e32e4bc33e2ec0a955216767f9e1472d"}
-{"cloze_1":"b962445b435cc6b5252be3cfc625ec30"}
-{"cloze_1":"a9797a6617f01681f141627444a3922f"}
-{"cloze_1":"68e7122f92362c51be5060b6cef2a3e7"}
-{"cloze_1":"4b216e3ee8f9a75d05a9175763225339"}
-{"cloze_1":"7afc92f6a4c9eaf9b5ef84ea78d253e7"}
-{"cloze_1":"b6db2d033adb71d36bd4f86f8e100f7a"}
-{"cloze_1":"0d40021d3a05a59ad3319eabada9a236"}
-{"cloze_1":"bf8d7820fe1aa908d83911b952b7f225"}
-{"cloze_1":"525533d3617c81851dbf63c68ec8445b"}
-{"cloze_1":"1e3afe049df6475dc26269771829d420"}
-{"cloze_1":"e94ff3ee96818ca7fdf6e35632b44206"}
-{"cloze_1":"a90e18b0e8a87a5d4db2cb836c40897c"}
-{"cloze_1":"60b5f099bb4c31576f4d5e78bb6630c6"}
-{"cloze_1":"f328fee1a0d98039e024e467789da0e3"}
-{"cloze_1":"c43dfe2b10ade17467c85f531f639bca"}
-{"cloze_1":"ec221814212f82db9c220c9576f34738"}
-{"cloze_1":"8b4ef2b77e6548e1de7890c5b402de2b"}
-{"cloze_1":"7f4e4eab3750fa1e960655f492c3529c"}
-{"cloze_1":"2bce30ef7a38b65fc0cd6f7c6859b107"}
-{"cloze_1":"0cd78b51d0913e6bf9c8c00e81c193b4"}
-{"cloze_1":"af8bf7787e76c0c483053aeadcda03fa"}
-{"cloze_1":"35c5c1c48bfd87e7b672b2b5a88976f2"}
-{"cloze_1":"9684293cda6ff75b5d3c35171ab24381"}
-{"cloze_1":"95540a4de1efe33bad9bcc591ef46225"}
-{"cloze_1":"160b59ef5b4db2764da19484ddbef6ae"}
-{"cloze_1":"813790729506bcb796d736962635b446"}
-{"cloze_1":"327cee59a77d5767c0b9198e2026b828"}
-{"cloze_1":"bf8bc85010b6b7a7e3fb72e8844762bb"}
-{"cloze_1":"b1fd0a7c5c2db80e5c17b0ea73d43bef"}
-{"cloze_1":"27ffd912c583de735bfb48caedd12594"}
-{"cloze_1":"6d90d62f5f76c9ab5bb39190651cbf5c"}
-{"cloze_1":"50d113a42216e749b7d2150fb79bc29b"}
-{"cloze_1":"4d17c6dd8415248f2142f9a88a8a2ba5"}
-{"cloze_1":"4f09d59b63196aaf1ca05d480c787c1f"}
-{"cloze_1":"229e58fd029aaba788c44e9d834815de"}
-{"cloze_1":"424ebc8d1edff381b3ce82a5ccf5174d"}
-{"cloze_1":"c875a201814c16de04addf7141e69ce1"}
-{"cloze_1":"67571a3161a98eddefdd9e8d5ad3218d"}
-{"cloze_1":"b5eafe95419e5d49617e074268a19032"}
-{"cloze_1":"3cc80e909f887db831cd17dac2dd67d8"}
-{"cloze_1":"9949f76cc1e3959071789fa9986de5f6"}
-{"cloze_1":"f2c321bcb19d0db638465ae8cfb431fb"}
-{"cloze_1":"d117261ee26be66226434e6c5acc6f05"}
-{"cloze_1":"92dd03b89e91be477ba8c00ccd3f282b"}
-{"cloze_1":"4d7fb3a50f7d316c43053784f4062128"}
-{"cloze_1":"3da032a879376bcab9537a124e2845fc"}
-{"cloze_1":"1e19bf436e9a23db7dfa340e47c12ffe"}
-{"cloze_1":"3fdd65529c3524e1e3b3b1891bdf0fb1"}
-{"cloze_1":"d8e5c3f385c5197120ac1eabc066c027"}
-{"cloze_1":"bd44aa6253a6ef41efa09ad160543f48"}
-{"cloze_1":"fc03ef08cb4ff514f457cc76d190d799"}
-{"cloze_1":"68b21459ddb3e35566d0041e2ea342f0"}
-{"cloze_1":"31a08480eb32b5e99148ee3f08d260ae"}
-{"cloze_1":"f05af00912d227f67a7b90b82bf0296f"}
-{"cloze_1":"fcf2c6316e6d7f844eebead36b4d20dd"}
-{"cloze_1":"c56a5cc42ddac55ea05ed9305ba8c092"}
-{"cloze_1":"a48dec833dc8d0a87b15153ba9ab4f0c"}
-{"cloze_1":"ef1df3e0de48bcb38816d6afe99170eb"}
-{"cloze_1":"3bd89fe80f23f0033e205031a3208c0e"}
-{"cloze_1":"3a222a325944f20c7689aafce31c8aba"}
-{"cloze_1":"5284b9ef8276a37251f9e99de063c941"}
-{"cloze_1":"d2f6aa096290bbdb59ec0c445424e522"}
-{"cloze_1":"2ae2d6ee34fc605d7f13f47eecaf5198"}
-{"cloze_1":"93dd305bad404f7e976344d9cc7c41f1"}
-{"cloze_1":"20ee024901ceffde3fc592388486464a"}
-{"cloze_1":"ded7804053f3cbf69b87a38bf3be251e"}
-{"cloze_1":"26a31c2b7d5eba6de33bf20d77602f28"}
-{"cloze_1":"52581772ccbd695a3b6a9b0f18ccc5fd"}
-{"cloze_1":"fabba10f9bfe6d65b38d741e9e0a7975"}
-{"cloze_1":"8a899b1ae64fea426925b85c8e20a8a2"}
-{"cloze_1":"57dcb84f246f1858ff2eb19c71347c3f"}
-{"cloze_1":"e698948c7415098006e5b223cfd84d02"}
-{"cloze_1":"0d269dd5981d79b81dcaab38e3bacb27"}
-{"cloze_1":"129b7bccc7295240f5ebd31c063bfb27"}
-{"cloze_1":"f8b7d2e15150b83a3da00c3eed4cac56"}
-{"cloze_1":"6e5d0198883b882c24c0adb79d6b626f"}
-{"cloze_1":"fa91dc102d4f00a65307bba57dba0cd8"}
-{"cloze_1":"65211a90103ac7e889c81be324afb11c"}
-{"cloze_1":"c5ed40fdc7642870b582c4449b2bb53e"}
-{"cloze_1":"5d8147e34dec138f1e15833ea3f24cab"}
-{"cloze_1":"5a912f5087f83f4c6b4dc82e218c1be6"}
-{"cloze_1":"c13d6aba558fb2434bffe6d35a17bca7"}
-{"cloze_1":"a65ca9a6263285dc25c145f6f77095eb"}
-{"cloze_1":"3bfddabe39a0571f1b7fbccab9d563d3"}
-{"cloze_1":"8cd1f082bfd757270502fd5cad5f3dc4"}
-{"cloze_1":"585351bccd119c9647f72012ea6d76a8"}
-{"cloze_1":"d4498b90979795a0b4dd33ee6a940c63"}
-{"cloze_1":"fbf7601325c62afa20748f30769cf42d"}
-{"cloze_1":"d9f64f344d41a837f2c56c8b658275a4"}
-{"cloze_1":"7785877886707694a13a1cf483156394"}
-{"cloze_1":"eb108761725181f8977a7276fe587b50"}
-{"cloze_1":"2d59ab6edab26a21455a0e258484acc0"}
-{"cloze_1":"b01b6e495de1dec266a15dfd82bb4de7"}
-{"cloze_1":"231f5ea46dc9658d14856cf7be221151"}
-{"cloze_1":"e98867f20fd6fbd4eef9efba5458e282"}
-{"cloze_1":"020786f47c49f039ff4ac4e9d87208c4"}
-{"cloze_1":"bc73409eecd5f84296b6d88f75f81a08"}
-{"cloze_1":"ad29ff1f9646945c61050ec2948162a3"}
-{"cloze_1":"41dff846f202da5d3d06961b038fb066"}
-{"cloze_1":"b5746eac10e4fc70285ae4dbb833be15"}
-{"cloze_1":"c3459dc804c3fbdd1d3249d1939b396f"}
-{"cloze_1":"8c310e07cb530659479c07444e13341d"}
-{"cloze_1":"9571ee9515980879b32ecd373f81c24a"}
-{"cloze_1":"f29d59e7b5221e927703eb921dbc77d3"}
-{"cloze_1":"14b26856993a5eea7978b800efd8bfca"}
-{"cloze_1":"58a19daf776b2cc43f4bbd5c78b17e45"}
-{"cloze_1":"82073f769b816f07a939776ae6c1e79f"}
-{"cloze_1":"dfd6e04f4aef57cf38c360e52bbbbb49"}
-{"cloze_1":"d4b8c0a008a72c0b069145b82850039b"}
-{"cloze_1":"05c7d67e549c147d53803d63da678286"}
-{"cloze_1":"474b52a22db77acead0a18bd2010b64f"}
-{"cloze_1":"0052f93aca8e45cafe82b656bca15347"}
-{"cloze_1":"ddd36aa9f6c7e37fdde2b8fd89128c08"}
-{"cloze_1":"cc8d96f850667491caab12d79910302c"}
-{"cloze_1":"8dcb5faaf3a192cfb109114cb07499aa"}
-{"cloze_1":"d42ad1a02061f31a6d0956c8e32bd317"}
-{"cloze_1":"190a8d8c9222ae7f3d64c8d9792257fe"}
-{"cloze_1":"e0bf72acb986a2f7ce89beec574e5c2e"}
-{"cloze_1":"8f3fed55ca216f00db9cd6ba585f4493"}
-{"cloze_1":"86f83fe53a013a515e3e0fac15b6b1e9"}
-{"cloze_1":"76f17a4689e84648637f64f132c5957d"}
-{"cloze_1":"8dc2ee4a655cb15fb4374e204e251caa"}
-{"cloze_1":"f819bf4f56f4c47648bf26fd7c7543cc"}
-{"cloze_1":"97084cd1da7b34dcd12c5964209672d8"}
-{"cloze_1":"0eaef545395635628ad2e75d2ad6b2b4"}
-{"cloze_1":"4e9f3174115214c757ea4b4cbef59560"}
-{"cloze_1":"fa6e0300482bbcbe743f05242726146b"}
-{"cloze_1":"04f07c5f42a0b0d6e967579f77971c24"}
-{"cloze_1":"f1c6d40fa2907ab11630cba9e0ea861a"}
-{"cloze_1":"e71464e2a5b87787f97c38cb3f9dd448"}
-{"cloze_1":"18171f2418f4af7f558a34a565ebc65b"}
-{"cloze_1":"f3288828406963e49741f0167e40bcdb"}
-{"cloze_1":"0ae48fa99393cf9b3a0b93e30e622679"}
-{"cloze_1":"f41b8843dc2aa3b1b543687e094632ae"}
-{"cloze_1":"64d6ae9e73e48f36f26171ac8304a1e2"}
-{"cloze_1":"a031030ee520cadb0bdbbac33486c81c"}
-{"cloze_1":"3ee9c6ff702e42699bb8b50012aeb767"}
-{"cloze_1":"e168a010fb492f50ec47d1c92a2f08c7"}
-{"cloze_1":"c8d2a532bf8cb3200973d7ae6314001b"}
-{"cloze_1":"a501a383c3b72193abc040110f120e49"}
-{"cloze_1":"ea555d73cd3ce592f35af15fee945d86"}
-{"cloze_1":"c37ba7b0672d7767379be6050e2cc7b1"}
-{"cloze_1":"b1411c7bcc1c38893a93b71b0794cd43"}
-{"cloze_1":"ddc6e0e34efecfb542fcce207f7764db"}
-{"cloze_1":"e30af4ee23eb6b8554de8d6ef20e54b6"}
-{"cloze_1":"634e5f0228dea15963dc78bae74174ef"}
-{"cloze_1":"8c9e3b841706ea7a4cb7d03926832b98"}
-{"cloze_1":"831e6bbd1683c7fd519f9c1a92c33869"}
-{"cloze_1":"e8966a234a329ce3e32681b8aa880993"}
-{"cloze_1":"699801e3d44ae9e85f1fda7602130e5c"}
-{"cloze_1":"cf5ca11a138cd43365786cec1744785d"}
-{"cloze_1":"362f2a9055a89b296ab009a23f8f875d"}
-{"cloze_1":"9a0391480513faa2aea3deeeda38ca9b"}
-{"cloze_1":"d93499c517172ecc27c7e95fa4e97215"}
-{"cloze_1":"e53fde778ccecad76c4bf039be5be1eb"}
-{"cloze_1":"fae636e19ba3abf9e9311c83e8988ea5"}
-{"cloze_1":"0698381e43219a89b3393bb602f56a8a"}
-{"cloze_1":"84a295d601218ad30cabb3d479bc9cc7"}
-{"cloze_1":"aaa28e4a0a007fb8bed1543e603bb882"}
-{"cloze_1":"164e90e2794747c077ad6afcf8f3ff3e"}
-{"cloze_1":"bd93a2da19fa3c1843c1aaaac5bcec1e"}
-{"cloze_1":"415b8ce64ba0b2434c3f12c488835440"}
-{"cloze_1":"3322b19feafa184d2d0c6a56d2c3910a"}
-{"cloze_1":"f44155d5740079cb44a9a28f56c87c34"}
-{"cloze_1":"fcbb33373467febf183572bc4878f0b9"}
-{"cloze_1":"98edf8aa581d92046b483055b9dd115f"}
-{"cloze_1":"a43abbf431cf88ee41302b2404b9dd76"}
-{"cloze_1":"776a05ff00936009896fa5fe6d3a2e0a"}
-{"cloze_1":"d77ff833b23877d884dadf836aa66695"}
-{"cloze_1":"fd64f35386b86cf34380f12508da61be"}
-{"cloze_1":"fc4677fb4614a0f0d9f429f77538ff47"}
-{"cloze_1":"829bb55b3ee63a02bdf76ca5c3cef439"}
-{"cloze_1":"1c35c7357f0cc1f52c1e00b77a116d95"}
-{"cloze_1":"34a30aef656a0f8967538759832d1d77"}
-{"cloze_1":"031ac200481c75e4e85c0b06f8f52bc3"}
-{"cloze_1":"9caa4c8f4d54eeba39788399f39715af"}
-{"cloze_1":"6909983395b8e3a7a97f1c11dadb6e05"}
-{"cloze_1":"51c6432743e4ba7996e84d5660b5a4a0"}
-{"cloze_1":"cbf45380e7db2f7bd7a2de0cec346ad4"}
-{"cloze_1":"97394966a5b97ea142249093351980fd"}
-{"cloze_1":"edab6338e5028797291d13df59f7546d"}
-{"cloze_1":"37067cb1551e818fd0849ed9472a4f0f"}
-{"cloze_1":"e8dc2a13c2c6404ce7537f1ccfc5202c"}
-{"cloze_1":"37dc0860709a1cf1361db41e7160904d"}
-{"cloze_1":"dd0a35b6c4bbef4db9b547d38018d011"}
-{"cloze_1":"d9a33e8103ccb8c4c7a2c3e184733a26"}
-{"cloze_1":"41aab6eacd5af9b672e2ba2309b232e5"}
-{"cloze_1":"36cb8cb50229ebae88351ab663f673dd"}
-{"cloze_1":"6a2f384083f18b8525045beec01dd0d6"}
-{"cloze_1":"672e1263c59df68930fce4b88dce1eae"}
-{"cloze_1":"4f5cfb6cfb6adedc015aae8fe2d42a16"}
-{"cloze_1":"c52eaceabf203bc80446198237d83b9c"}
-{"cloze_1":"88f64efc4632caf7cd28873931f00f6d"}
-{"cloze_1":"06f9e22925d77d12ac0fa450a4dbae31"}
-{"cloze_1":"e14c62a53cccfaa72edee34cab195ad2"}
-{"cloze_1":"272037dae1564e0877b034a3e7591a4f"}
-{"cloze_1":"20518d74acbc1e59d391c428060b8cde"}
-{"cloze_1":"d07aa951ed8aae4a40257e4f30fe9039"}
-{"cloze_1":"26d08aa570d446db4ee3254828b4ac60"}
-{"cloze_1":"591c810b6e0ab2524e4a252029247e74"}
-{"cloze_1":"de0f10c776ba2ed95d074b08c71da788"}
-{"cloze_1":"0127a06025371262a77ba5b5367d14db"}
-{"cloze_1":"4bb9a83775ad2ff7569dac5477f3b2dd"}
-{"cloze_1":"4ea6866635644ccd1319d6b8b497f5c6"}
-{"cloze_1":"db2ee69e91b16570a0d4dedbd197632e"}
-{"cloze_1":"5d7f72d3f355eee73a2370f0bd5964e9"}
-{"cloze_1":"8a470a24dca36bde4f448adeca2eb261"}
-{"cloze_1":"28758e22e550e591e0332316d1b7b2fe"}
-{"cloze_1":"a5ac3b0aa016424b7e36c9720f5de8fc"}
-{"cloze_1":"152e4039f8daf770e2e8972a42ecce58"}
-{"cloze_1":"0557a6c05bd3f40650ea161527b2d591"}
-{"cloze_1":"4de1542916a9cb074c7dd59be91d8d69"}
-{"cloze_1":"b2de874f006d51791987b1834af7ca25"}
-{"cloze_1":"a7029923a61065af0ef38061f084a886"}
-{"cloze_1":"d77a981859a34383970806ff12eea2bc"}
-{"cloze_1":"f11452fc1b35a75e957338b8db732444"}
-{"cloze_1":"0acd2367379b09af4eb889f52551ab29"}
-{"cloze_1":"2a6c31af651fc8398a458ab2fe8a57a4"}
-{"cloze_1":"25b79eff0c79c1e374dec323f6c64750"}
-{"cloze_1":"6874b3240c10c1c36ae67a6169a74158"}
-{"cloze_1":"de53aa194781e158711b532af46cbb7b"}
-{"cloze_1":"74eb6fc599c843d064b660aec70c1f77"}
-{"cloze_1":"9aee2781d8566882232bd53de8361815"}
-{"cloze_1":"c8473a8a2b83e83243c7eac6d49873eb"}
-{"cloze_1":"f89da9d3ae536898a7872ce6de0b1ead"}
-{"cloze_1":"c313a28402fbb993a308d27549a32003"}
-{"cloze_1":"bad067d5017b33e71971f1eff27e4678"}
-{"cloze_1":"4b64659930094587a8142714741e6228"}
-{"cloze_1":"ca6dacbeb84503303206fca6cab3c7d9"}
-{"cloze_1":"5c242fe4c7ffca27e8c98747f55c055a"}
-{"cloze_1":"c339619e8a87a0e02dcb56d483a118c6"}
-{"cloze_1":"6a00fe15b76678a21324d3689bffb607"}
-{"cloze_1":"93b0e7e3b8a5942049228d48b28f38ab"}
-{"cloze_1":"f9b4fc544230861f479ce7ae6ec55f04"}
-{"cloze_1":"97ca418762791aa7ce8317b13ec84258"}
-{"cloze_1":"ea5d1295845a31c5bb64196a6ef5c458"}
-{"cloze_1":"7abf54023c7d0c5151a28228f2eb9a9f"}
-{"cloze_1":"1cfe952c83555e620852161472a6f8cd"}
-{"cloze_1":"fe0e5462e411f5043012b268c64a0851"}
-{"cloze_1":"81a469095de3b93c970c43338563747f"}
-{"cloze_1":"8d6211fb7cde148e8dc8aba617a9db75"}
-{"cloze_1":"43dec88c7458620f8e94445e0c771929"}
-{"cloze_1":"f2f1cd69b60108836a440e62c06923f9"}
-{"cloze_1":"ab5fe75e86287e0df0a4427396306eac"}
-{"cloze_1":"54a15873e721f5640f1acb544a4d5698"}
-{"cloze_1":"b3350d3c659ec63aac6650ec3e3e3ad2"}
-{"cloze_1":"9c9baafd87b0a2fc4d4a7a2a32b21644"}
-{"cloze_1":"1a3fba777ba5d3ffa4038bca4ef6b21f"}
-{"cloze_1":"1901234963796d4ef581715769c6baa7"}
-{"cloze_1":"eef3fc684f9912fbe81a5caa1184b35e"}
-{"cloze_1":"bc5913d0940be88f7eb22c2fb010d85a"}
-{"cloze_1":"87c4134e9783e0d858fa855c9b510fa7"}
-{"cloze_1":"35f0078d23ea7b665a4e9ec47394871e"}
-{"cloze_1":"0edc681683002f9709f08602405ac54c"}
-{"cloze_1":"0bc002aa7a75b16a90419162083cea59"}
-{"cloze_1":"e45ece6d58b44d10748903456d0c4b82"}
-{"cloze_1":"9bde5e9c588229f9006f4cb1b3c988ed"}
-{"cloze_1":"18d775ea25ff34630d759f1345c513b3"}
-{"cloze_1":"a88e9cf48f564880839c4813ceb4eb5b"}
-{"cloze_1":"28c162a13d21cecd49d33cc880342dfd"}
-{"cloze_1":"1d025dda5be887e05e5938bf3e7501e1"}
-{"cloze_1":"2feed2d1421acfe2cf9f956996ae5914"}
-{"cloze_1":"278b13db700eeef10de14f28da910a0d"}
-{"cloze_1":"268a8d5c9b71dc9d3131ea64fef8d398"}
-{"cloze_1":"da6f930daa8c9ff0cc70830c82022578"}
-{"cloze_1":"d045a32fa976a99aef579db3b85cb62a"}
-{"cloze_1":"5a5668d5395aab23976cb2776f3e7c2f"}
-{"cloze_1":"ecd924a43aad0e85ebde9c7d45c55681"}
-{"cloze_1":"49b482ee88f21db7d5b9a8aea209978a"}
-{"cloze_1":"a0b325bbc4333b970368caa596875eab"}
-{"cloze_1":"68583e9a19b39ea6963ff0fe1a14c437"}
-{"cloze_1":"f4a4a81e1ec41622c305dfd6dde85bf7"}
-{"cloze_1":"5157419026e259792bb8f0f2ac69869b"}
-{"cloze_1":"1d90a437de72f868f8ef7825cb846aa1"}
-{"cloze_1":"23c19b93af4653b796cfa6a2120a4cc6"}
-{"cloze_1":"90e8f6a145c954a2f346f40d803cda69"}
-{"cloze_1":"822e690b53029e5ce7333411388ec0d5"}
-{"cloze_1":"71609b07e541e8e461664c77ad96fb00"}
-{"cloze_1":"90279a09f80bc471a5970c24b383122f"}
-{"cloze_1":"3488c19a04f2ae06096986856525847c"}
-{"cloze_1":"6f4561083a03722fc15a5c40978c6e9a"}
-{"cloze_1":"6ea2ceb24e7ff22eeaf7909d0acff909"}
-{"cloze_1":"bb2d72eba8afca0b314a0a8414cb1cd0"}
-{"cloze_1":"56dc46b084cec144416d092f1a6fdb9a"}
-{"cloze_1":"dfecb2fa31935c6901e03d884c613c94"}
-{"cloze_1":"ff9557274ca8fb1a981563f969abe396"}
-{"cloze_1":"8b2f4ffe74dfe758cfd66de367bda409"}
-{"cloze_1":"6d73661252fb8e4f6ee04459a4f08040"}
-{"cloze_1":"53363039a8213f797ab78d675d367892"}
-{"cloze_1":"bb7b96695c7ef15a3ab829dd90124119"}
-{"cloze_1":"82bffa47c95b5644017772977661c714"}
-{"cloze_1":"bc7a4a3a6b5fb067c48076bec8a2fe44"}
-{"cloze_1":"c5733a11a99f288d23d52622bfbd7a12"}
-{"cloze_1":"7aa853831ac8e9a175053e1cd83468ac"}
-{"cloze_1":"2306ceb782f04a866a2d457dc729ab75"}
-{"cloze_1":"d6f9b9aa712ccce5024a7c7efa42e49d"}
-{"cloze_1":"10ddd0db558767d7f9911b0e8ae8370d"}
-{"cloze_1":"965a810f7e2b2d0b878abddf07a87a1a"}
-{"cloze_1":"6dbf749fa4f39511db237a7b7441ed58"}
-{"cloze_1":"5c0d73fa7ac513d78d9eb06539680153"}
-{"cloze_1":"7a97b6d9600a2b2ab9fb080bedaff009"}
-{"cloze_1":"5a5cc44375ea8b4de0e886cf2f90254d"}
-{"cloze_1":"b8c17de74dbef52d39970dc5ee4f1bdf"}
-{"cloze_1":"f216345f7faa294bf71c0852da809a21"}
-{"cloze_1":"d81e9cf6a53df09fd24f0d3d9a2c8ba4"}
-{"cloze_1":"de24fc8d6d626d58e8a4c4a1be77482e"}
-{"cloze_1":"b335d5c8f9486b1f8f793f4f7797eaa7"}
-{"cloze_1":"10acfa6f2596a670e373b76794b472ff"}
-{"cloze_1":"57bddd3a8c53e69194ae5062b509b0bf"}
-{"cloze_1":"7556482b901f72cb52a0b7b9c4dae5f2"}
-{"cloze_1":"48bc3452e8913862236190d7410198db"}
-{"cloze_1":"73a8c2b0f722569bb2d5f25970268310"}
-{"cloze_1":"1dcaea6cf0d44b39f08a0a144183e4f9"}
-{"cloze_1":"47f71fdbeb3df515e101a0311e55aceb"}
-{"cloze_1":"f484f04dfd6138f707b6e1e4d2e3a4c3"}
-{"cloze_1":"e25c8619f8d8400b993bd93753713f5a"}
-{"cloze_1":"75ebcdf420dfb946726ddb73c7461bc2"}
-{"cloze_1":"3800ce7fb147845ba515c0fefd60ab49"}
-{"cloze_1":"3b3a4682232209839b3b1cb2178e85f1"}
-{"cloze_1":"119cbcf85c3bc0eb67de54ba45aaa22c"}
-{"cloze_1":"f9d5671d6f623622ff6993c73f2649eb"}
-{"cloze_1":"9d414d37975d09341431341e0a3de8e4"}
-{"cloze_1":"f38db74e5d86b1342e1cd2319b36f0bd"}
-{"cloze_1":"b1d070d1fbd276ae9039aa84391e691c"}
-{"cloze_1":"ee25d2eb8c9a8770ca41a32e30bcea2d"}
-{"cloze_1":"168814ca4a9469257dcb598db2bee0f8"}
-{"cloze_1":"3cf444d57b783086c5cf81c249c4c5e6"}
-{"cloze_1":"365d29968dc1007c6c083ab4f33fc13a"}
-{"cloze_1":"ce6b0a83248e845e531e4bd2e3782846"}
-{"cloze_1":"b920df43995e43f585c5b0ed3cb06c20"}
-{"cloze_1":"9006622d03da87ad9d7fe825b562fb69"}
-{"cloze_1":"2be0523d76269847b819b2f5653b563c"}
-{"cloze_1":"af61f4e0591ac9dbacdefd7f3ec20c8b"}
-{"cloze_1":"5e21cf2ca8153c495effc207ec0efa08"}
-{"cloze_1":"f9f7b166e2241076e4bbad4699c3b159"}
-{"cloze_1":"abebf429b9e567a2a820b2f32f9d5f88"}
-{"cloze_1":"f4111b34a66499afd3d2d4ed087a2513"}
-{"cloze_1":"1e18835772cc9222adb7eee4a488b96f"}
-{"cloze_1":"9d367e70873d0d211fd3123dedcfd4b5"}
-{"cloze_1":"f016c787090a5e005a3859fac65520a3"}
-{"cloze_1":"6df0b799b66607d8b06af2b78012ff22"}
-{"cloze_1":"b0fc1536f3acd66242bf9e1066a59205"}
-{"cloze_1":"95a8b1017b44aab9e67a8a560d06dff3"}
-{"cloze_1":"aaa25e9f86e335ecb406e87868cb3545"}
-{"cloze_1":"a50b3cf4eeecefc3fad67ae0ae520355"}
-{"cloze_1":"2c2b3060205de838c53c6fef9ce45c73"}
-{"cloze_1":"6ec6a23fe76ac2abcd33581ab5f90233"}
-{"cloze_1":"1d045b8629d9fa0ea23755a7d757aaa3"}
-{"cloze_1":"8eb0caa1e34f53124f6a623c034e27c7"}
-{"cloze_1":"e546d0ccb7b8147e1b8f01df1d52ff7d"}
-{"cloze_1":"5c0f752c57cbacc65cbdc187adbafef9"}
-{"cloze_1":"6a194c4fcd8e42fcd83c9ffdaff7261b"}
-{"cloze_1":"7dca4c0d91f7b909a590ec9d15fcbd55"}
-{"cloze_1":"28cddaab4c3e187181cae4a8a375499a"}
-{"cloze_1":"18cf4ae3af75ccc2c620d11a74ec6333"}
-{"cloze_1":"645d17afe74d1eb2aacdb951ffe63f86"}
-{"cloze_1":"05adf4597eaf05816bae6ac3921efbf0"}
-{"cloze_1":"52fcc29d8119f1adc2ac95786d5eea9b"}
-{"cloze_1":"1927e600c2fe4ec0a1399d4462a7cda3"}
-{"cloze_1":"4c6b858f845d2bf037ef15ae16447ca6"}
-{"cloze_1":"6d3bb4b9bfdb1b9480af60fe32f9afb7"}
-{"cloze_1":"335ff4032393f2e514b724c71edb336c"}
-{"cloze_1":"2ec6c21bdf5f24c4ef6a443eb46df348"}
-{"cloze_1":"a576d47e99171e7639d6eccc3ace435d"}
-{"cloze_1":"54d6dc36041e7d1258a807f8baaec0eb"}
-{"cloze_1":"41ed08892071a294258c0f999a2c8da8"}
-{"cloze_1":"c3f0f6f2c0541ecc2ba6f0cd2f42f0db"}
-{"cloze_1":"90602073eb918d406751907c4c08a737"}
-{"cloze_1":"8878228f7607d0ff52ce65c169cefd00"}
-{"cloze_1":"aa9562914ddd7804c4fda24a2ca51ab3"}
-{"cloze_1":"09b680280c2c5aee5ef373cd4f67f946"}
-{"cloze_1":"f8f6af58b220d7aa7f5276576840554a"}
-{"cloze_1":"ab611b79f1ccbc206a4237b741f39d62"}
-{"cloze_1":"a59633967a6a9bc5f1c927783a5bfefd"}
-{"cloze_1":"3dfbf912d78d611a03c1329bd96cb6a4"}
-{"cloze_1":"b72be68733920d244f398dceb187bd4a"}
-{"cloze_1":"015687ab67a817acd2740d11b22991a8"}
-{"cloze_1":"9eb6c18aaad890d51c1c9b9f92fdfb11"}
-{"cloze_1":"ea14683828c1cc591d321ca0705461fc"}
-{"cloze_1":"b19af2b28d3735741bab81bf9bad0d5b"}
-{"cloze_1":"ccece4b592e00381925641d70ba83846"}
-{"cloze_1":"7a4b40feece8154b801372736189442b"}
-{"cloze_1":"cbd6c4131c31ce3f3ac76e5bd29667d4"}
-{"cloze_1":"6fdf119b4abd2d0f489d82e072027e48"}
-{"cloze_1":"3a47e5a7472002ff6b89f1fa232c9a90"}
-{"cloze_1":"d984bfa584356d45b4fecdab2a0d19ab"}
-{"cloze_1":"861e2f6962f0064baa398be72db4f472"}
-{"cloze_1":"7976c05ac93548b376dcdebf63a26dcd"}
-{"cloze_1":"27ce262ea7a08cf84b37ce6c37879d2b"}
-{"cloze_1":"0432c3e5fa2a2ed053fcd248ec80a871"}
-{"cloze_1":"91899ce8f323718cfc6a298b9a8a936e"}
-{"cloze_1":"77d84bcef6533ef649b4ab0b16470e6f"}
-{"cloze_1":"6ddb195cfed76613ae9462d52f24f8c3"}
-{"cloze_1":"8d645b123799d4d08fa1e5a4604c6c50"}
-{"cloze_1":"98f4013f3a305d079b1a79de2824d03c"}
-{"cloze_1":"15ffd2b87c2aaa8e4029f7a7feb50747"}
-{"cloze_1":"c80af3b596c3fd5471e2242f0aa64319"}
-{"cloze_1":"995731dd4bdd70e575936034d1735953"}
-{"cloze_1":"7b58cc8815f3bf0f5e115ee85a89cf1d"}
-{"cloze_1":"22431f19bb3bf79ad7afa138ddfdd37f"}
-{"cloze_1":"a7eb811c2d52ace548485d1407073f00"}
-{"cloze_1":"46475e4b2fce79a7c4d78dc8bd3b008a"}
-{"cloze_1":"98244062dcaa981e3b09c626f9eb3e70"}
-{"cloze_1":"50328f6f56b503822e1431ffd7082c9e"}
-{"cloze_1":"826b038cba8178133687d4dbac65592e"}
-{"cloze_1":"ef28d4656c8564cd61eed7277a9c64df"}
-{"cloze_1":"14a12e74fca1d06cfdee3b7ed6e39d1a"}
-{"cloze_1":"5a63dfdea9d03e04d7071c4657d4bbd6"}
-{"cloze_1":"a9647d0d095d3a38b260ac9cbba73d62"}
-{"cloze_1":"52a0bb7866da1387b35abce600037070"}
-{"cloze_1":"26f47e55e49d967b8dcd16e09fc9e906"}
-{"cloze_1":"4252578fea049a2f3801b59324bdeaac"}
-{"cloze_1":"cfa4c93115f2331380bcc56318b3c3f6"}
-{"cloze_1":"d0187b2e22022d2d1e4850e29fc8c7f1"}
-{"cloze_1":"6fbf2be5a7e4f8f3bf6afecf61a0f7f9"}
-{"cloze_1":"ac816e2fb41e02e9484d30607852dbb5"}
-{"cloze_1":"7f2dbf0d5edfc5c3c33ad9a56313d034"}
-{"cloze_1":"28620136520427e2ef5369aee2cd6ab8"}
-{"cloze_1":"bafd2532c40416e6af7fdd9d665014ec"}
-{"cloze_1":"462a9d8ada0b710dcf625d724c215a2f"}
-{"cloze_1":"0406c1ca69b8b98bf56571ea94ff278f"}
-{"cloze_1":"99778f2427b8c6242a4a787c26ba0c42"}
-{"cloze_1":"0c81a4d81c1ec931384147874464a485"}
-{"cloze_1":"4f143f89f5ae1ab09274333ed6a19f5b"}
-{"cloze_1":"09af218333ff1983f2f90c54c5b7d813"}
-{"cloze_1":"63ca139e22047af46dbc39ca77e5859d"}
-{"cloze_1":"6afb6d24efa0742bd3ea0475924dd06f"}
-{"cloze_1":"f74dfffad8192f0168e1d8c6e05bcf5d"}
-{"cloze_1":"b9433856a4fde31963fbb64dad0722c2"}
-{"cloze_1":"7725f4964e65d84c0e567aead865fe8b"}
-{"cloze_1":"72c6b16d88630173568a3fee44bba2c5"}
-{"cloze_1":"7f2b3aaa468f2cf9365f5c8f46f1934f"}
-{"cloze_1":"ddbd36c78bc58ead660df057be748e73"}
-{"cloze_1":"3a4c43f3d37e87336bf6b4a6deeb668a"}
-{"cloze_1":"2a5316652f76b4396646fcac77d81779"}
-{"cloze_1":"22bd864473f5f363a6cdff396108207e"}
-{"cloze_1":"297a3c040c75978a3844360ba8002481"}
-{"cloze_1":"8c5b341e0c09f4d8e9bb277fd44e1ceb"}
-{"cloze_1":"fc569c4dbb7e2a1b9da2428672088e2e"}
-{"cloze_1":"3729915246aff23131517cc16a5f4eb1"}
-{"cloze_1":"f38feeefc454602d700173558f7bf583"}
-{"cloze_1":"f70cd291cd71542f1a0c246da2257dc7"}
-{"cloze_1":"f411e4736ceb4978b61bfbba461bb5e0"}
-{"cloze_1":"42006aff3ae8e6cc5a04b1c26de66708"}
-{"cloze_1":"841474cf8332d36e33fefcce0ec7a208"}
-{"cloze_1":"fa18d6dc0c18844371db95497405ce2f"}
-{"cloze_1":"4670d08f979eaeab253ccd09896c91bd"}
-{"cloze_1":"05fc5deb9956efe254b82c866d121861"}
-{"cloze_1":"786822e28fa19df02ac1560361876a52"}
-{"cloze_1":"d0c50cc9789c20f7ec71a1a357714964"}
-{"cloze_1":"f897645296cacedfa89fae0e6f340bb7"}
-{"cloze_1":"f77da56289410c701cb69d0d06b23148"}
-{"cloze_1":"0daf47ac2250949bbdac0ebcf99dde32"}
-{"cloze_1":"2095f93a2fc000e0c8633ced1f3990b2"}
-{"cloze_1":"409351f26eb64f2be1fd180202d30159"}
-{"cloze_1":"b9e12ca5b17f75204a1e1abf41712377"}
-{"cloze_1":"0a8212ae96f196493b78e0ecf3009dfb"}
-{"cloze_1":"f088c4622873482fea92a12fbe35db81"}
-{"cloze_1":"8e5c4c023865a313993a1b139be7dea1"}
-{"cloze_1":"6c77ec3fbeacd542572dfe43f54aa92c"}
-{"cloze_1":"7de0de91ce8a037d816557b4a7c22063"}
-{"cloze_1":"8302823d1271b8e8a5241e725ccb71f6"}
-{"cloze_1":"1da7333a2e27dd87b50eb475236576e5"}
-{"cloze_1":"4430123e8769bfa304c894721cd7bf9a"}
-{"cloze_1":"451a0935227af71c8e3c7aff3484114c"}
-{"cloze_1":"ccf2d8aacf75c7942e3608c8f16d47a5"}
-{"cloze_1":"041841f314c7cc4a81d239652ab7b1f1"}
-{"cloze_1":"b588ff242fb565fa33f973d386b3d796"}
-{"cloze_1":"74d6273d2057bdbb6aa87bd4215c8748"}
-{"cloze_1":"19994f86390d11cb1818aed724f9bba0"}
-{"cloze_1":"ecf4db4becf0bd7f7c2dd8fd91f7b936"}
-{"cloze_1":"d0da5f7c904678f7283887537b5608f3"}
-{"cloze_1":"9490fc968beb257eaa7124c275814ec1"}
-{"cloze_1":"600db9042d634e6517cecf0aaecdcde3"}
-{"cloze_1":"9dbc7d396322f0a3895aab4621d004e3"}
-{"cloze_1":"27c8b48db9563958bb76443b3dc577d2"}
-{"cloze_1":"30315078f98599bcf106db268976dcff"}
-{"cloze_1":"169985746dc9e52f79532f091df31be8"}
-{"cloze_1":"fa937ad40cc23714ae9928b2aa68dd6c"}
-{"cloze_1":"eddd6f88d854f04bd21a83fb7809c8a6"}
-{"cloze_1":"f480229635eb59e056d117bdc4365100"}
-{"cloze_1":"da293c3bac9add4d6e432e536ef4f819"}
-{"cloze_1":"10df70a8051dd72c36be5c12c5aaa7df"}
-{"cloze_1":"651f42eacfd1817ae551c3bfcec96e38"}
-{"cloze_1":"4a2e627c5dc8590cee8dc3786b3b32cb"}
-{"cloze_1":"8d86e519fd3772f15c6680c0614d128f"}
-{"cloze_1":"77884f713bb570a326feb934dded61a0"}
-{"cloze_1":"dc9b3effddd55b0507e3cbf0534d3900"}
-{"cloze_1":"5c276a952e68ac13f9b92d93ba43b905"}
-{"cloze_1":"8ae0eb9fb7b2b1751c2a86821528046f"}
-{"cloze_1":"46861dbddec91d3332baac3fbb3b647d"}
-{"cloze_1":"70aec06ab45ff549f1955c1fa3dc145a"}
-{"cloze_1":"3caec72dfff613e0c41692466f010f2b"}
-{"cloze_1":"bd243e0bd72212d87d7e70e5df7bafbf"}
-{"cloze_1":"c65c7f20d5f86d200a3a155f2368222f"}
-{"cloze_1":"0783ec99fca8b99e8c24facf48cf442b"}
-{"cloze_1":"64decf425c53dfd9e3129852cafb2b8a"}
-{"cloze_1":"ff34177bb1d337033083f17f4099e8a6"}
-{"cloze_1":"bb6b1e07445f0b136212d5bb05509149"}
-{"cloze_1":"f76b610624998190172b5f12ec44b55a"}
-{"cloze_1":"a79a6759c9081b01e383bd5f919e35a6"}
-{"cloze_1":"b5f587066a6c9bb2f6ae0ef3037b9635"}
-{"cloze_1":"9e54323dee70725b983357ee973bcf02"}
-{"cloze_1":"e0cf2979b3ad1bf6824edaf2124fa41f"}
-{"cloze_1":"0c9b5b5f3b7d9f5ca6dd1eab991d9c43"}
-{"cloze_1":"5ddd00d20ce55690e9a7c2e49bad5efd"}
-{"cloze_1":"3de22643b283c88d2303f97b99df78bc"}
-{"cloze_1":"dd88420ba22f445c5cbc507a067e7d78"}
-{"cloze_1":"3a70c4d829927c4a03945556ed3d7985"}
-{"cloze_1":"ffa0f26c269a54ca73e077e9f26b6b4d"}
-{"cloze_1":"05017112390bcc757c8bb29700457195"}
-{"cloze_1":"97d07bedac0144dda1bac2d35f36cde0"}
-{"cloze_1":"852a93a53541718e9ca4ad4d9428d5a7"}
-{"cloze_1":"d202031c74cd3212e4afa019415d2a6c"}
-{"cloze_1":"921d84d1a812b67e74a9c8edfca92037"}
-{"cloze_1":"ee71e1e6060c68f09d954d8fa5041241"}
-{"cloze_1":"1707314d391f6e9638cb9fdd410bd115"}
-{"cloze_1":"6620f14d48f919198d5bb81b2312e464"}
-{"cloze_1":"bc4058738b288dda4d1387694049f4fe"}
-{"cloze_1":"179a135f3c2923a61a0eb9ac0b6aa2ca"}
-{"cloze_1":"0b87449ce67e3fd979bc6153f6b625b6"}
-{"cloze_1":"7913ffeefd475fddb424fc0d11368fbf"}
-{"cloze_1":"cffe041bde5b62f398c5e1eca9ab1dea"}
-{"cloze_1":"27f65b2b6bef0f464e55931be129a815"}
-{"cloze_1":"40f949392bdc2f93a11b5a41dcd5b0e4"}
-{"cloze_1":"44a6ba5986a859b1b7a69c0245aad453"}
-{"cloze_1":"c904137f85bb2cb1cef5a9cb2878aa30"}
-{"cloze_1":"cf6e156439d2638250a09218673e2623"}
-{"cloze_1":"ce55dc9189b76d9a4bed6096da4b84c8"}
-{"cloze_1":"9cb8b7b4aacae11168054dac1b7cdcac"}
-{"cloze_1":"0deebbbc15f89c3dd946c20601732def"}
-{"cloze_1":"bd6fabfca0c86f0ec42a2d394ca61895"}
-{"cloze_1":"45307c402790f3836f11e03474455fd7"}
-{"cloze_1":"cbb8c802231bd4382f6f168c18b5f6dc"}
-{"cloze_1":"35ca1c8d047a8f4d60b8d7256a20c822"}
-{"cloze_1":"8f5e52c30e8078b2dca550a1ad11f0b7"}
-{"cloze_1":"d3537b4892407eafce0430b7dc984f8a"}
-{"cloze_1":"cbab4a2dc317d79a905f92a25485fbed"}
-{"cloze_1":"aaf7ad591379a1a2fd16d6ad6086618d"}
-{"cloze_1":"af90debec806628eecb4baf2424f5b16"}
-{"cloze_1":"fce2736fff2913013c56ea7747f7f012"}
-{"cloze_1":"392de72c0abcef12dfc0038135164643"}
-{"cloze_1":"f010eacf3f5ff03d833443812dd44ca6"}
-{"cloze_1":"af6e79f8595c2a29a2fdbb38debbf099"}
-{"cloze_1":"dc82f655259c71704e1cb66efb21f489"}
-{"cloze_1":"eb7f7785e9dc72675d650c7feb58ad16"}
-{"cloze_1":"5d99b4978e6e7251c1ea4e0cbe026764"}
-{"cloze_1":"5ddc6a94ccdb00e9501140de70e2468b"}
-{"cloze_1":"2ded90830f558186206db6fffaaacd32"}
-{"cloze_1":"1dde891c58c1cdf4cb19f076949e8045"}
-{"cloze_1":"8a9a765c07353a94a54a491948d2b379"}
-{"cloze_1":"f777def2cc2308a7a1af6380b91f3217"}
-{"cloze_1":"eca64fec0507bcda2649057d5d0a9a32"}
-{"cloze_1":"b5e4816482897633f5bf8f3caba04ac6"}
-{"cloze_1":"6fc2761eb69f647777de7d8f54d8420b"}
-{"cloze_1":"cb3a686bf1cfb112aab0dd61ea48108b"}
-{"cloze_1":"09c2aa94cf9e37007bee8d971aa9e944"}
-{"cloze_1":"f42be940facaae75907c3503f309c5ff"}
-{"cloze_1":"36eee24d911a76936bd09cb21eb5bc0b"}
-{"cloze_1":"90fd1e3e62d9762135245ad2957109c3"}
-{"cloze_1":"8a1a60a22e6d4ebd4fcb6b2814ba86dc"}
-{"cloze_1":"e302a068a3dfe4863ac860b5aab5f866"}
-{"cloze_1":"21817846421d1d40cbbf0bdd2f276a11"}
-{"cloze_1":"f54e968231ed1f2ade1925e84521007b"}
-{"cloze_1":"c2bee9c5c5a39593a1077152d58decd3"}
-{"cloze_1":"54a6713d4ab79975566ef48ac0995451"}
-{"cloze_1":"8da450893a3d729e49d75dfb280327dc"}
-{"cloze_1":"5b60b27bd25358a92311d405ba191281"}
-{"cloze_1":"94bdc0ec1f3558c032a10ec7c5e920bb"}
-{"cloze_1":"4074a35f8bac0553cf6ee7635233a1bc"}
-{"cloze_1":"9ca391d8b65cddfebbe97c28feffae39"}
-{"cloze_1":"658642317489b4de1d7c657e1ac867fb"}
-{"cloze_1":"8b6cfb66630ec464e39c882c426821e0"}
-{"cloze_1":"8b6d1a55ea9ff3fa685abbe5cc66d786"}
-{"cloze_1":"e35c1a80d56983b5d32c200d6e149228"}
-{"cloze_1":"5287acd96a2738b606fb8d80afdb0b8c"}
-{"cloze_1":"20a5ce5d4544e8e2fda7ece787dc68da"}
-{"cloze_1":"4de894253096577667abeeb40a0f39a6"}
-{"cloze_1":"17c54eccd3ea1693795175ca3726b90e"}
-{"cloze_1":"e312b6ad53c2e0d5b5bf11a545ef4380"}
-{"cloze_1":"5432566a42c4201ab2a39cb4e8914c87"}
-{"cloze_1":"1ed4331cb1c61d6b01f371ef6541319b"}
-{"cloze_1":"6f9f7c8ac8451d2d204e02464b78ee6d"}
-{"cloze_1":"0ad3aafcacff50e3bbe644adc2f30569"}
-{"cloze_1":"a4185ce89c19f92fdc008307deb1c572"}
-{"cloze_1":"e6158fe4e550249a22473e3a43a26740"}
-{"cloze_1":"91295b3a0c9d14baf010d7ba4368df6b"}
-{"cloze_1":"e4361042d783db43907f012788a8f538"}
-{"cloze_1":"27bf28f480f5d47f952074b62518143b"}
-{"cloze_1":"cbec788d5df439650291c9eebe7df5a8"}
-{"cloze_1":"5f154971b896d96ad902d947cdd8db92"}
-{"cloze_1":"83a000dba4a634b2027fe986b75eac60"}
-{"cloze_1":"def022a33c4de2565d5b1db97151a734"}
-{"cloze_1":"a02938dd60c71c8cd0ee278779ed80eb"}
-{"cloze_1":"a6499510ed12c793ffb088c4d5b5b09a"}
-{"cloze_1":"506d91e9bc212a69edd82a9c7315d090"}
-{"cloze_1":"dd34dfa18f8ed55b91835e53e283fa42"}
-{"cloze_1":"1f32e5c3669f1c0c1ea0eb784593ec31"}
-{"cloze_1":"899073a80c1b6dc3cb7ff393056d1a43"}
-{"cloze_1":"1f9b5a72cb70bb7c03e69107242dfac4"}
-{"cloze_1":"a35fc326f96928791bfeded828c7a84a"}
-{"cloze_1":"bf8fceea78e729326582773ea60fae37"}
-{"cloze_1":"f68dfa137871b1dc365be8fb9357261c"}
-{"cloze_1":"caf20e95888b5c083cc19f68d9de5b67"}
-{"cloze_1":"363fb57eea7ca6f324d0c2ca11a0027e"}
-{"cloze_1":"9f6bbe911b4084a5d7656a87c29f3b0e"}
-{"cloze_1":"fcdfb38961383ffc17e0c92b672fc303"}
-{"cloze_1":"a32857966c4863b5596c0a26513f3731"}
-{"cloze_1":"fc78d8d80b78c99fc77577f09b5745a4"}
-{"cloze_1":"afa64dbd43e57af7ee7c5814cd4407ff"}
-{"cloze_1":"52829dbe78383ae4384486dddad012f0"}
-{"cloze_1":"d6395f5cbb2568fcd51d229ee8e1ef89"}
-{"cloze_1":"fad35858f077748273e597b193e5ca34"}
-{"cloze_1":"eedfe438c0f664cacfb9ddee073e9448"}
-{"cloze_1":"d9a51b3017df7888c864d055e0c5f510"}
-{"cloze_1":"e25b35b4431991739482a199bec930a6"}
-{"cloze_1":"cca36516873cf0ba75814b1057a3d5ea"}
-{"cloze_1":"7b927badf78b0fc50db65e48bb9aaa4e"}
-{"cloze_1":"326eca2c7637ee99bc1e66e788902a98"}
-{"cloze_1":"6514ef9b65659712e1dc5befffc4b829"}
-{"cloze_1":"a902654595f4389250d9acf0b60a1416"}
-{"cloze_1":"c3d5485e9e67bcb7f2312ae43894457d"}
-{"cloze_1":"c1fb2116378149996ba720bd107448da"}
-{"cloze_1":"0dc135ddf9992716fc529abf5d680416"}
-{"cloze_1":"a73bdadc6aad6ac01c29072d482e1220"}
-{"cloze_1":"3e87b78faf4510bfb6287143189b6a7f"}
-{"cloze_1":"8f45f72c310910e57a775b9e3ac1590f"}
-{"cloze_1":"5a49c4f0c57c8c8b4b03ff39b3b3c116"}
-{"cloze_1":"060f99e467b5ccba12985b48143b425e"}
-{"cloze_1":"d1c67a823ac74089d6203518459fd247"}
-{"cloze_1":"8cbc2e65ff3210a4302394ae8f01c64b"}
-{"cloze_1":"8ca224f619cc6387448b30cee1a3e1ec"}
-{"cloze_1":"7551840439f755b29164434c6d8af685"}
-{"cloze_1":"ed25f967da8c37c66df308ee77cdf206"}
-{"cloze_1":"63f884686f794421957fa1acea0df8c6"}
-{"cloze_1":"7be864be2880bfa1e375edb6e6743420"}
-{"cloze_1":"13ec83d4d8b4d1489d51f05bc9464fb1"}
+[
+	{"cloze_1":"360f3a107e0095824ed5f502cac7ed85"},
+	{"cloze_1":"2c0479bbaebdd8802717424513615637"},
+	{"cloze_1":"3fa5f6d8ffc1738c7774dac575e2b0ba"},
+	{"cloze_1":"fe1ccf06ed4382d163d2bfa00071af41"},
+	{"cloze_1":"1efa0a26d51b7cc4f49f5def9f8a92da"},
+	{"cloze_1":"dc6b0bc806e2471e64d6a5d97dd05594"},
+	{"cloze_1":"29413329f2e03301577279d2b5325594"},
+	{"cloze_1":"4b4e8810659fc6eec14fb586e73454e2"},
+	{"cloze_1":"d590ef52f3515329333ed52b1adf18ab"},
+	{"cloze_1":"24677f4ce625acf15e382e725a4d04f3"},
+	{"cloze_1":"fbb5f13150af77c533fd62dcaaf8a4f4"},
+	{"cloze_1":"c9b029db5ac5c6253f627b09a4dcff26"},
+	{"cloze_1":"70a42d49eda8ca09a10c18ca5256d19b"},
+	{"cloze_1":"97a64e2d6b9184362d56a39db4a5e520"},
+	{"cloze_1":"1804b2e583bb3fd922470e3b336053c1"},
+	{"cloze_1":"d0cd2b7c06a508283b596ce8a752fd28"},
+	{"cloze_1":"3f5a2262d366ce018b37f70bac3f072f"},
+	{"cloze_1":"d593abbe1bcaee643a1c64d3f576688d"},
+	{"cloze_1":"a520304079a51118c3901fb5e39f5acb"},
+	{"cloze_1":"5e4f4bb237ea4575c2fdc96631b16790"},
+	{"cloze_1":"1293c0e3a86ac3e7f8405ad711a4f54e"},
+	{"cloze_1":"32a18991f98e23bec14ad77681ea41af"},
+	{"cloze_1":"a75275905506250e21c7a987a2edf2ea"},
+	{"cloze_1":"054750dbc00146135f3d8101bdf1ac05"},
+	{"cloze_1":"0f4afbcb8f7961b28f641bb4c2ca52f9"},
+	{"cloze_1":"e0e5f3f931a51bd64d713a2181033b10"},
+	{"cloze_1":"e7b4cfb6183df982ecebaf767ab5eee6"},
+	{"cloze_1":"efe1fd8ab69ffe08ebf8ea5101359208"},
+	{"cloze_1":"b3322ff674588ce4b55b0f694b2703c9"},
+	{"cloze_1":"f02f929cd15577c1c970187177335683"},
+	{"cloze_1":"5d9472f50d3d9442dae810abf51d9640"},
+	{"cloze_1":"49d7e1b577114a2406aa30c9ef34f26c"},
+	{"cloze_1":"eec9c07542ca0e3a6141fa5bfe4b2d5b"},
+	{"cloze_1":"d52a3e1ba5dbe58f61c418958b55a1cc"},
+	{"cloze_1":"cbfaaf1fbd97441a3ae65d28b8523afb"},
+	{"cloze_1":"f347a51aeea40b20443a0774b1948923"},
+	{"cloze_1":"c9f106ae90b3f8fa0cbe33d8cb586f27"},
+	{"cloze_1":"5c7bceed57103aff67780f175354010d"},
+	{"cloze_1":"5956a8fc13def69f56467e9d0aaf278b"},
+	{"cloze_1":"4b510fcc2c6103e43e09ae2b5cd8e8cc"},
+	{"cloze_1":"0d0c5e12da37d131639236743c354581"},
+	{"cloze_1":"b4e1c812e0af20f37190933fd4cfdb45"},
+	{"cloze_1":"241dcee331a2dc41106bd82862d544d8"},
+	{"cloze_1":"74cae4f40da823e1c2c3dc6c3752fd42"},
+	{"cloze_1":"cde3e0633c08d50c691e53d7ffafaac6"},
+	{"cloze_1":"26444f3dbcda3e97bf5e86363d5b02dd"},
+	{"cloze_1":"3cbf9162d1829de1a93d59d6d082eac8"},
+	{"cloze_1":"cf030b88b20daaea2e9a291226ab8121"},
+	{"cloze_1":"2a40680cc7c69ab22b8c44827f360895"},
+	{"cloze_1":"45b20ad488324e0e35a9a874fb687361"},
+	{"cloze_1":"9a779d7baaae28aa1ff3e8f520349915"},
+	{"cloze_1":"5fbdcecd64c548f7f7c9d1ac4d178256"},
+	{"cloze_1":"b23a20e862fec4e6adf5eae5e42ea28d"},
+	{"cloze_1":"79395639b6c6cc34e222e0b1bb48b7fd"},
+	{"cloze_1":"7ce68845c14887a4a5cce4f0199846af"},
+	{"cloze_1":"9479d03027d1fe0983f8949d25b5b49f"},
+	{"cloze_1":"86834da4c356557d538f39131f160493"},
+	{"cloze_1":"1a5b63645c3e99ad54e441d718b982af"},
+	{"cloze_1":"fe77d9f3a79711a341d676a8d61d1f96"},
+	{"cloze_1":"284b4e2d9996fc8c66bbc07f3a3649d2"},
+	{"cloze_1":"097c81593d0b0868b80827ebba9e7dfa"},
+	{"cloze_1":"83c9005d08db36e16106bd6dc1090f11"},
+	{"cloze_1":"5112957cd9499a9ee333773928c1b773"},
+	{"cloze_1":"c8b9ca474972166129cfd83917892be9"},
+	{"cloze_1":"b7698ba52220447e60d8e6b27c7b0e16"},
+	{"cloze_1":"d62fd564dbc96b5a3b44b60dc68769ef"},
+	{"cloze_1":"d8d8c5bb35b4da206de032b6e0147085"},
+	{"cloze_1":"4ae3030062c175d724b9d7fa97d2b307"},
+	{"cloze_1":"69a6ae0c3ad7f4e10e0cd9bb0730c08d"},
+	{"cloze_1":"f2164045e86aa06ce9ba2d3dbbeb8403"},
+	{"cloze_1":"f03359fb044d3aefe5b8e0b75f42c699"},
+	{"cloze_1":"76a819b1b3230f96b8f2d3d1a5bf7ab7"},
+	{"cloze_1":"cdacef2422215f603edc25c114cc48c0"},
+	{"cloze_1":"afc62ddd05e3f26f76be769835b8c7f0"},
+	{"cloze_1":"b35b5263c6e43d6e20fb2ad7824725bd"},
+	{"cloze_1":"27284c8e993d53c6048506670fd01b39"},
+	{"cloze_1":"9aeb0ae1c542c8010bbbbadbcf426f4e"},
+	{"cloze_1":"11851069e9d663613e795239ffe943b7"},
+	{"cloze_1":"e79e80dfaa87fbd401277ddd82a74dc3"},
+	{"cloze_1":"4aaa9eb3fd8061b56ac9656a13a865bf"},
+	{"cloze_1":"2e34b0a36a12c95ad610e67cd5f6cbbe"},
+	{"cloze_1":"b54a53a9c6405c8b8eaf4846f432a754"},
+	{"cloze_1":"ba69df2d41191ff343135ee6d39043bf"},
+	{"cloze_1":"8f05344f2dd9999fced950a4cc4bab1b"},
+	{"cloze_1":"adbd47b48b3ada9d1bfc3060a42fd021"},
+	{"cloze_1":"69a3c5f56c0277eac00a070e22c6205d"},
+	{"cloze_1":"6362cb50cde4b846ac826ab0b0d8cc4a"},
+	{"cloze_1":"67bb00602423df9c7afbd6a97ae405d0"},
+	{"cloze_1":"01b2840db62bf78a6974da7f8f8bb435"},
+	{"cloze_1":"51f3c59ca2ef9a4eac20c52829187373"},
+	{"cloze_1":"22e8e7290ebf2bfa691d7cce15a62f36"},
+	{"cloze_1":"f2e2575fcdd475aadb878ef215cad6a1"},
+	{"cloze_1":"48b6bf7f4a76d2ab154608f916ebbaa7"},
+	{"cloze_1":"a31a03a1ce304fb6754334f7af86a8ea"},
+	{"cloze_1":"dacb04d49ed8a5a58d981e6807b07016"},
+	{"cloze_1":"4464f544d05ce788fd48dbeac8a5e4f0"},
+	{"cloze_1":"185f0c9415dead6ac68a8a5172b7ba37"},
+	{"cloze_1":"426b399765d3f4838a3a233048fcc0b5"},
+	{"cloze_1":"533cb44fef3848e6bc1720bb8d673c02"},
+	{"cloze_1":"2db261bc21658989f99acfd0906aec71"},
+	{"cloze_1":"28261997bc1bb6a0abb4f9b129fe2f54"},
+	{"cloze_1":"4744bd38cd93bfdbf5c5557f87fd3a8d"},
+	{"cloze_1":"0d61a08dadea41933ede83308e0feabf"},
+	{"cloze_1":"54c142aa4ec095ace9597682b8b5e531"},
+	{"cloze_1":"7b0b6dd3feb08a11aa70f2418d195508"},
+	{"cloze_1":"a62e747e835e74deaa257a932f70836a"},
+	{"cloze_1":"3c8125680be08b013851c83cf3e8ad1b"},
+	{"cloze_1":"aef311571a78a9fc75cc4d2e87aa62d2"},
+	{"cloze_1":"eb8c8f4a614df5ad3060fc9bc0eca057"},
+	{"cloze_1":"a674172ccb174eb9615c93600ce0e72d"},
+	{"cloze_1":"0ca126bbc98adeb43b538946d2fc847d"},
+	{"cloze_1":"ba0819e73dcbf4eaf80da235b72580bd"},
+	{"cloze_1":"a94a5c6f40ff092e8cdfaeef6a3c945e"},
+	{"cloze_1":"30d0416543f7fbb3b482ab0d39b27291"},
+	{"cloze_1":"b6a4ba0804c8732320629fc76eb7be1b"},
+	{"cloze_1":"a73253745c5bdbadb6689d477d103750"},
+	{"cloze_1":"3dbfbe4587fe690133a79cbed0386483"},
+	{"cloze_1":"802e385613624c27b2c1961aa68f51f5"},
+	{"cloze_1":"ac6bd67bbb1d94c78fd0114607155adb"},
+	{"cloze_1":"be01ffa7ff29bc718fde4b499702f606"},
+	{"cloze_1":"94e0e7d0b0b5b9ff6d94fcd73e1d8419"},
+	{"cloze_1":"4890329c3012a1d0c9eb1e3700ffe416"},
+	{"cloze_1":"5c50557a017e6876fdf28a16abd25ab2"},
+	{"cloze_1":"8cc891ea3eac1bf80dd85c36b34d62fe"},
+	{"cloze_1":"9ed19fa35bbc5f8634eaedea116439a2"},
+	{"cloze_1":"f3fef68b95fbc229afc071cd10c4064c"},
+	{"cloze_1":"8fc63a4f67445dfc2885f0497d6f8693"},
+	{"cloze_1":"a9db79b083bd3f3264b86e693e833491"},
+	{"cloze_1":"78f22a83c579a2d01acf2361ad229052"},
+	{"cloze_1":"f3a30978499b18334b389b37fc4404ea"},
+	{"cloze_1":"bc06077b7eba4f06df76295ee109ac84"},
+	{"cloze_1":"17d5c9b60b0ce8433a89ac7f8364723a"},
+	{"cloze_1":"2c01b407baf5df730cbdd2ee26307e8a"},
+	{"cloze_1":"600a35b5f247d46614e1b0d0300b4d64"},
+	{"cloze_1":"30a66cf9d4f01c1c84d70152646ab58d"},
+	{"cloze_1":"db1907e0c0333366b33a551988e5037a"},
+	{"cloze_1":"581645bc8394a77e15d0e067a2c14ff2"},
+	{"cloze_1":"ccd7b704a27f462ffd6d2295cb001224"},
+	{"cloze_1":"e59b7dee885e76acd315891a50699399"},
+	{"cloze_1":"bfd5506a27c4482ec85a45c54040bc1b"},
+	{"cloze_1":"c46143cfa7f222067e90157581134ee2"},
+	{"cloze_1":"6b45f382bb25d5f5fc328e5ad9fabcc7"},
+	{"cloze_1":"e300b54c98f407a230a081bf07395190"},
+	{"cloze_1":"d9de02bf92e8023ad284145eb30b97e1"},
+	{"cloze_1":"42e5176e8713ac242fd9ff16b3bd4026"},
+	{"cloze_1":"eae29128a194d5619cd82146acf19c9d"},
+	{"cloze_1":"6a15d0a5924409c973aa3a06e02c8da1"},
+	{"cloze_1":"a9b78d379d7a9c04a5df17a0326a3b3d"},
+	{"cloze_1":"77ad0f81792ce91dcf279d2449a66ce1"},
+	{"cloze_1":"b009a19e46d408a36ca57ee44a03da4b"},
+	{"cloze_1":"8ee1c21e2ae78b43bcd3a217968ca127"},
+	{"cloze_1":"cf1d177b86bf22f8795588b87f0d44a2"},
+	{"cloze_1":"47cd6e20782cab3a89a11eeff5c007b2"},
+	{"cloze_1":"6e67cf06907b807a850a832e70bbef29"},
+	{"cloze_1":"024b11e30abea3fd9a4419ff5bc54179"},
+	{"cloze_1":"75736bf4adebc0bf01072d089e49b748"},
+	{"cloze_1":"e257344e0f8e7c7493a1313aa1951287"},
+	{"cloze_1":"d4039364d941b7702bcb0f98b6903b84"},
+	{"cloze_1":"d3c3c82cd4b8b8acf3f4b9b85c1d0751"},
+	{"cloze_1":"c37f1e8cfad2d8c58aee2c6c26ead076"},
+	{"cloze_1":"9ccfa168496363b2580e4975be91557e"},
+	{"cloze_1":"f20853f7a07c256d948264550cc27260"},
+	{"cloze_1":"81f7e072a8d731127a73fcdde5b0ced6"},
+	{"cloze_1":"2f7472b99dd48d56105258bb6a9d4f69"},
+	{"cloze_1":"a53488baaeaa7e344a1c012b3ee7caff"},
+	{"cloze_1":"5d868f2f15e1ba3901c39e4eeccb9027"},
+	{"cloze_1":"3c668ae2a7f968070194ad83ee2bcf4c"},
+	{"cloze_1":"55485e415cf5ad6b1d4120d2e6250a76"},
+	{"cloze_1":"805b441d7863cf1a56c5d601df6003dc"},
+	{"cloze_1":"48b2c24598f1a1a641b5790a89c4cf06"},
+	{"cloze_1":"b31580a1c9856781e2597e65dd79002d"},
+	{"cloze_1":"1342fc2fb15a73274257884ca1cf98f1"},
+	{"cloze_1":"d66543773d626bfc9dfc243b81409244"},
+	{"cloze_1":"bb11370187822aaf161d1b336fbcdde9"},
+	{"cloze_1":"9dcb3c128772ef4174f73d53f2a4b797"},
+	{"cloze_1":"ad99d4c763bdc70b13cfdda5ce164681"},
+	{"cloze_1":"c6d32aa2fe566b685665ebec022789d8"},
+	{"cloze_1":"d393d1377b8b5ddd84f67259ed8904a3"},
+	{"cloze_1":"6f356847e773ef9c44f5218688229e35"},
+	{"cloze_1":"95b1d2d686e2a474940438b12b0da865"},
+	{"cloze_1":"83353c8d1308185bbf74d5d867da76d3"},
+	{"cloze_1":"7a74acd424345b30be1680d0f2d7d418"},
+	{"cloze_1":"c80d8fe8cb3c0b4fd8d31ea39225bb22"},
+	{"cloze_1":"d31878e5ef52a9e628288787bb66100c"},
+	{"cloze_1":"6e121bed8387de0139ae6507358191ff"},
+	{"cloze_1":"a98793b5ebb6665bf42f6ba953d3f404"},
+	{"cloze_1":"050913a75739ad04fdf2c8f44123e0d4"},
+	{"cloze_1":"293c06fc0481cb63f1fb33b705247f8c"},
+	{"cloze_1":"77e95d95f922f251eb449dee549c2bf2"},
+	{"cloze_1":"d20b0e2400b535b02a9e0a5b01b93bc8"},
+	{"cloze_1":"8cc3fcf039993d97cb0031520f5081cf"},
+	{"cloze_1":"6a891e9e26ceb44bd1b950d9386b3ef5"},
+	{"cloze_1":"9950b415197957b79c04283c6a8118e8"},
+	{"cloze_1":"ace68aa1735a5fa583cda57d34e0d01d"},
+	{"cloze_1":"d3477647b8c5f5c37591f52e21b429ca"},
+	{"cloze_1":"f603a4dd1a67b277e1c449bd635c89ca"},
+	{"cloze_1":"0118e9c26fe0b00cd73bf798c73d5e30"},
+	{"cloze_1":"0feba429487548b74efc3097e1ed8b22"},
+	{"cloze_1":"bd739d267cb128f703e3fa158f4079f7"},
+	{"cloze_1":"d50c798c6f3180c54a58d6e43cae89c4"},
+	{"cloze_1":"1f3f4db092ce6e3e62c4c00a835b1585"},
+	{"cloze_1":"3013df71f83bf01221e6445ad2a55575"},
+	{"cloze_1":"ff370dfdd7e85a5040a2b7edbc2d9ec2"},
+	{"cloze_1":"b37a9575381f2c4113015842e4603e5d"},
+	{"cloze_1":"621f938217222428741502130a76d92a"},
+	{"cloze_1":"174d0929e72378edf894cfb1fea698ce"},
+	{"cloze_1":"c3c566c1dbb9d10ece60d0ecb8764617"},
+	{"cloze_1":"3036546f4e3539ef471b4a633ddebdef"},
+	{"cloze_1":"ab06934074c5ee3ffa6692d8a909231d"},
+	{"cloze_1":"79702416c633fb41977817a086c7bb1e"},
+	{"cloze_1":"1f4c4989c0b2b5157649b5a9a0778bbb"},
+	{"cloze_1":"aeb8f7d362dca5422b9b434d0e65f00d"},
+	{"cloze_1":"329647d1cad50ccf415f503aa2ed7961"},
+	{"cloze_1":"6bef0eff5c4d5dbd1cfd39ca13bba6ec"},
+	{"cloze_1":"ba8b91f550d535a3cd3d1d7e517c178b"},
+	{"cloze_1":"6803c4dba7219cb9afbc0c3b229b4709"},
+	{"cloze_1":"199256a6ac0b66617081da999923d724"},
+	{"cloze_1":"891ea04286c2d5a107edac20f974bfb2"},
+	{"cloze_1":"2a1866b85502628db9aa6844ff2b8b83"},
+	{"cloze_1":"0f36e38e04f166c746c3b71406b3dd20"},
+	{"cloze_1":"c88bde56f73e5e0dd6e22027610e3bfe"},
+	{"cloze_1":"1d6b799fa0ad88463232b0ad5c1def40"},
+	{"cloze_1":"469559e5ad718d72cf4e5ccfbf0491c5"},
+	{"cloze_1":"9c1e8fd152e23e00ea12a75977b578c8"},
+	{"cloze_1":"54e22c2aa8e1658fea5437d2f57fc337"},
+	{"cloze_1":"18614844540a872c75d11a3d137d1753"},
+	{"cloze_1":"f26b76fdf5a9614ade8347a8e89f65c3"},
+	{"cloze_1":"031113200accef5bd3f4d99094bdbb36"},
+	{"cloze_1":"4d70376c7262c0c9dea8a5421e44b6d5"},
+	{"cloze_1":"e3267150182816d421139f81a7a8cfc2"},
+	{"cloze_1":"097d5737fda630036591574f7cdfe687"},
+	{"cloze_1":"ec35ad41714a22b35580835aafb0785e"},
+	{"cloze_1":"f4b3fc4aa6f33c2ca7fdc8d9dd9063a7"},
+	{"cloze_1":"cb0ee2f0e815f9efaaa51a489405c797"},
+	{"cloze_1":"f11b2b970b5b07d3378c3b037f13438d"},
+	{"cloze_1":"c414fb17bc6d0dacd478c096f5d1ef36"},
+	{"cloze_1":"e7f8c291144b7676384f90404f521a3e"},
+	{"cloze_1":"a1b7dff1af5f382906be290340ca8270"},
+	{"cloze_1":"c7c3788b93ee2629fa0bcfe4594c19b0"},
+	{"cloze_1":"89e82b053c6204bc806ba0faf785ad80"},
+	{"cloze_1":"28fcd1a5acc5373c8629457837c0b851"},
+	{"cloze_1":"7c747934960324755d48bcea5520e753"},
+	{"cloze_1":"144e1068a185676e75c6eaf3eac34137"},
+	{"cloze_1":"33ad7751cc3c29a677d346e6eeabad3a"},
+	{"cloze_1":"2f77fa839385ecdb8c27eea00ee2691c"},
+	{"cloze_1":"3a4317da3a9bc790d229b14480047786"},
+	{"cloze_1":"52fa821902883bfb5736eea77e28fed2"},
+	{"cloze_1":"eab21dd5100482900bda74bac30ee5e2"},
+	{"cloze_1":"63e5dd0b74312b686653afdcef4067b1"},
+	{"cloze_1":"e5b45633a3decd9fd3895a298b7fc9fe"},
+	{"cloze_1":"8fd5068bfe239aa2a2aa57195b682ca9"},
+	{"cloze_1":"56de6a13c9f7937b67b06ce97c1e79b4"},
+	{"cloze_1":"cbf92fc385bb6d61ab4f4d501aa19be9"},
+	{"cloze_1":"f4bc8add9b5ef9acf344be24211fc8fe"},
+	{"cloze_1":"e3979ccc253588a7e9ee001f0b4db735"},
+	{"cloze_1":"c7a7ae564bc9b70118fe3966124a51f7"},
+	{"cloze_1":"c2ce99843da737dbc79abc51bb2de6bd"},
+	{"cloze_1":"7a0deff3b974eeabba77931f1d723ec8"},
+	{"cloze_1":"53cee8ee7b8870160f820691adb91b67"},
+	{"cloze_1":"091d06fb52242c66406fed24d27fc070"},
+	{"cloze_1":"325c94b7886a617b8feeb19cd7268881"},
+	{"cloze_1":"539f9f2115e8479bea418e4fd45161a1"},
+	{"cloze_1":"81dbc84fd19da4dab56f12f690591092"},
+	{"cloze_1":"7e1715768944a2b0c4f6261dcb17cdfe"},
+	{"cloze_1":"6d6ae16ebd5264fe507c6df070e91b94"},
+	{"cloze_1":"03f4375d6350d801c17040dd4d83b3b6"},
+	{"cloze_1":"cd2cc952eee518cbbdfbc41bd4b57add"},
+	{"cloze_1":"40c5a31f23c698e853ffc15e0e935475"},
+	{"cloze_1":"35b84f4aea2e920288625017dd24fa88"},
+	{"cloze_1":"7a032208285b43ac99be0b92f9c13f2e"},
+	{"cloze_1":"c196c5ba3cf0ac8b8cdfb8cabacd8351"},
+	{"cloze_1":"ddea14a14a537333519cbcff8313b023"},
+	{"cloze_1":"2d5ff18acbc52425975ccff85d4a2029"},
+	{"cloze_1":"d427526f0b1f62f8d0ca5019e9a2e86d"},
+	{"cloze_1":"865ea466b571f3e79da60291cbb2fd04"},
+	{"cloze_1":"6a071ef4fb6c40b5e127f2747432cf69"},
+	{"cloze_1":"f4764e737a124a2e91f2891e7a89907c"},
+	{"cloze_1":"5e459b8fabd26d234ba918abcd0dcbba"},
+	{"cloze_1":"33acbfbb3c77b7c92bf3a1f6d266af39"},
+	{"cloze_1":"793dabf7ea28dec1618c1501f763bad2"},
+	{"cloze_1":"2121963fba33e7938a94a1f633d2b446"},
+	{"cloze_1":"583370e564269c546ebef2b7ad231352"},
+	{"cloze_1":"a44089d6e8d7f0c773072718d58df3ce"},
+	{"cloze_1":"5de8b162998d5c56210fbbce87422b52"},
+	{"cloze_1":"73afd4f42ac62b0e5aae925e3a85d3e4"},
+	{"cloze_1":"6b51890c8cd1cd0d58022d82479b36da"},
+	{"cloze_1":"5f83579e9143a414ecedd93fb367db02"},
+	{"cloze_1":"0511081459b26dbbfeab1081ef2c4be0"},
+	{"cloze_1":"24aa0ea18e1a5016eab7201b901b9d4f"},
+	{"cloze_1":"de1ebfc840d569f4e206fe3bfd0d27e0"},
+	{"cloze_1":"9fc7d4a74db05b51b6370c118fbe81bd"},
+	{"cloze_1":"d449aaeba01827779a4a31c39723707f"},
+	{"cloze_1":"cb7c9856985f92f5773d77f40671a2e5"},
+	{"cloze_1":"7a3ab0cf532c6242bf13ff2eea8ac01a"},
+	{"cloze_1":"ed160d6bfa1e5ebd5e3dafec6d652d29"},
+	{"cloze_1":"78ab9c6dead3f4128b414407fac3468c"},
+	{"cloze_1":"a74a7494ee0cda2e3d253d9f7cd32aa5"},
+	{"cloze_1":"134e51cd6a30a3015adb7c68cd78f517"},
+	{"cloze_1":"a7c2b0f1bf4620123ff3fc931f14ca32"},
+	{"cloze_1":"3adfd1306500c63edcd7782a724c52e0"},
+	{"cloze_1":"6a482e5f9cc53d41741183c6211298ff"},
+	{"cloze_1":"04eb2e633587d628325269c81314bdcb"},
+	{"cloze_1":"3b1c5e54f5c2dca08f6bc975afc1394f"},
+	{"cloze_1":"a0c35f0ac32488870ef3a8a16f8743fe"},
+	{"cloze_1":"d04e4940732f4826713f93c83ee53a9c"},
+	{"cloze_1":"8420972dfaa02ce259b88f66fd7ebed6"},
+	{"cloze_1":"aa043db101aa9ac150b51919368ea029"},
+	{"cloze_1":"0551c656b869ef94a3c1c5b8fc295331"},
+	{"cloze_1":"4302f0dae29cb61a6461ba50ea51a9a2"},
+	{"cloze_1":"beb2e8bdc2bc6b50325c2089cbdd0ff8"},
+	{"cloze_1":"f06eb39af2f870b73bdb65aa0626cc1e"},
+	{"cloze_1":"e116b77b8b41815b9a926249ffbb9791"},
+	{"cloze_1":"aa4a92a8f17c299dc5c3db5a2f4ed7a3"},
+	{"cloze_1":"09ae716e4268d08aa04cba1629a88b69"},
+	{"cloze_1":"e14dd62eae02a12b46cebb3ab29441b9"},
+	{"cloze_1":"c472d08c392841b41b667c75d77c7fef"},
+	{"cloze_1":"c11b554cb7ca2c27b0beecd7fc61af13"},
+	{"cloze_1":"01b00ff22f741be7455c74a34a4c43a4"},
+	{"cloze_1":"07fad10493a966f041910d80837abb2f"},
+	{"cloze_1":"8649ee48e4e51ce7a9c8971200b06a7b"},
+	{"cloze_1":"b036416b39f169d2c4b39577b3cfc7d9"},
+	{"cloze_1":"2e15a016644579b0d09fa638890be228"},
+	{"cloze_1":"9903a30a1f8972d3ecb5d02b13404f13"},
+	{"cloze_1":"f485a15b6befb100d1668f39b7f69f8d"},
+	{"cloze_1":"fdc8018909bfca918b857afd0a8b3fd4"},
+	{"cloze_1":"a69349c39c824bd6a0f16fa530a42d73"},
+	{"cloze_1":"7dea471e481d884889e7a25ac5b13c3a"},
+	{"cloze_1":"8f280e5514e34e38911fa46f85d88315"},
+	{"cloze_1":"ffb36a2068d9bf9cd9933af6db23cdda"},
+	{"cloze_1":"970961230121abc10563c5e27e650626"},
+	{"cloze_1":"9e1cd8e86dba297f21fe0de2ec3a90e0"},
+	{"cloze_1":"328fbb2fa7e4f9de8afb2a54863b310a"},
+	{"cloze_1":"119761cb1380cc3796be7ff65fb45410"},
+	{"cloze_1":"399bd81bf440a1dc29cd10496c528667"},
+	{"cloze_1":"1d98095601760f2e9d1d2a537c29d0ef"},
+	{"cloze_1":"c16dd7dbebc753f55207ac8ff98bf9ac"},
+	{"cloze_1":"c9ca8055a005aa5c97d2f6ee94a05283"},
+	{"cloze_1":"eff1f62e74757c2912209d876a1356fa"},
+	{"cloze_1":"5a4643ee14935f3c4ab3c367abc26b24"},
+	{"cloze_1":"f918b88675f0c8fb25ac10934859376b"},
+	{"cloze_1":"18e264ec2381bde26f7311bb625a8890"},
+	{"cloze_1":"14a18dcf2d5936f78ffab3a642c7ef94"},
+	{"cloze_1":"0ac365cc857cb29f086b485b46447cc3"},
+	{"cloze_1":"7a1dc190d9f5e154a43f3098d5ea84b7"},
+	{"cloze_1":"8fd57a9834463e3f16c7f7b4b1b8067b"},
+	{"cloze_1":"f3031b4b02a0a6246b9cda09131cffcc"},
+	{"cloze_1":"adaf67ddf2932ceb921d90c30eca8b09"},
+	{"cloze_1":"8b7d9e7dc5ae74de9ec3a101eacade65"},
+	{"cloze_1":"25e53ff64cdd0abdd8a863aaf13b7d30"},
+	{"cloze_1":"da265b8fca5312131678346c7f3eddaf"},
+	{"cloze_1":"64aaa7e373c40add331438950963705d"},
+	{"cloze_1":"8506e824e3456949db972232047e5b0d"},
+	{"cloze_1":"37c7a69a9722b0a33dd649378f28e22b"},
+	{"cloze_1":"399c6fe64b01f3a1e12d5862cd430c9d"},
+	{"cloze_1":"8fcf535389152817ee65f159cda274ee"},
+	{"cloze_1":"8d68c2d4cf58cb97dbe91fda3b32eec0"},
+	{"cloze_1":"67ad2c5a996be60e0c1a32fdfece83b1"},
+	{"cloze_1":"6c21481fec7f0d03936657dde8d75311"},
+	{"cloze_1":"ed4bd2ab056494636a5ecc27c2e79e63"},
+	{"cloze_1":"7a48b3758297af3cd37e88f8e5a8012c"},
+	{"cloze_1":"06e476602a8c270df370f26b710a9c63"},
+	{"cloze_1":"5cee21c566b3eb8b91aa25b670c9b788"},
+	{"cloze_1":"247b603ab21fb716803f8917aaa41ad7"},
+	{"cloze_1":"05b65edf98708e538f1461940c6dfbec"},
+	{"cloze_1":"d9a6857ab1ab4ff18e65eb0f195808dc"},
+	{"cloze_1":"43aa7c0962faa32aedaa3bb4fb65c3ab"},
+	{"cloze_1":"26c660e7c2eaa7567a71024a1ab9666e"},
+	{"cloze_1":"8558d8ef49530b3ed8650f935ad9d42d"},
+	{"cloze_1":"087aa51d274d1f913b55dbb472e93481"},
+	{"cloze_1":"6af29ef30efccb6d838fbbcdd56649ec"},
+	{"cloze_1":"da656191b5843b670ee3538e2b7ce6d9"},
+	{"cloze_1":"fcfda8502dfe250da2da774a4b8592db"},
+	{"cloze_1":"22997ba6227c3678dfd6e99f95e42ae0"},
+	{"cloze_1":"fe2fc21f4987ae8008bb5d681bc7e8cf"},
+	{"cloze_1":"d09d60ef12b2740a5382a78a952e0a38"},
+	{"cloze_1":"0733ededade307e4f9f268c86de162e0"},
+	{"cloze_1":"73b8f47eb6dfe0494c79d45bad20029a"},
+	{"cloze_1":"7a07722464935fa8d5cfa6a70a8df0ab"},
+	{"cloze_1":"3fb3832b7aada9452c6cfc77369b3f5b"},
+	{"cloze_1":"3268f8020ec16d3e6b4c83bc555fde8d"},
+	{"cloze_1":"0e27b1c562eb7727583831917f3cb1b9"},
+	{"cloze_1":"eb043ad795bfef26f5ddccf07b24b9de"},
+	{"cloze_1":"5d34d385b6275b4b791925308a055493"},
+	{"cloze_1":"2488e2396a07ec778e7c0c58fb3756be"},
+	{"cloze_1":"93bc7388e55fe06e3624e4089ffa5145"},
+	{"cloze_1":"4e0fddd12842e2b303a04e917ba2eeec"},
+	{"cloze_1":"eabc7838fcac77f002f7a261c85223ed"},
+	{"cloze_1":"57232764b1c938de60258645b6b7d3ee"},
+	{"cloze_1":"061cbd50f9695cf12e02c815d3ec258a"},
+	{"cloze_1":"34449510dbe293cb189b227d29668d91"},
+	{"cloze_1":"74b6d6e46e8fb5d58c3e5c11e42e93e0"},
+	{"cloze_1":"da6c2013d8e4a2dd0b9ce26f50608b56"},
+	{"cloze_1":"94b43933bd8d9a8400b4637e0bd2620d"},
+	{"cloze_1":"f55536ecc974e422802fad87f3df6b33"},
+	{"cloze_1":"acea7d1f0d50224033e6939a5ebb09f2"},
+	{"cloze_1":"2e09f34b606cc187dcbdde3aa409638f"},
+	{"cloze_1":"9912a1c1f1c2b6ba2e27de84a1fa72d9"},
+	{"cloze_1":"1e7110caac7630ebe25233a0f4c35aef"},
+	{"cloze_1":"dc4ad5ef1b19844ec9d96d95d4e25ef4"},
+	{"cloze_1":"86f1c04c99965ac892cc573979e77599"},
+	{"cloze_1":"7863e7a80adc4e7d8dec4d38e7eea268"},
+	{"cloze_1":"a104e7ed074eacd8c14399da1a81328f"},
+	{"cloze_1":"6977e80288dba259752b3b3678092f99"},
+	{"cloze_1":"5414697a1d8e6d31c002a18275d456d3"},
+	{"cloze_1":"160c22f446aa02b40fcc6c3640a4df41"},
+	{"cloze_1":"961732d4311267b471366ba3579ff24a"},
+	{"cloze_1":"46c52ac3fb4dd686d41cd092f817c88a"},
+	{"cloze_1":"db58af1dbfb5825ccaba056706f89569"},
+	{"cloze_1":"fcc1db2305a920a77146bb2cb53ce3f8"},
+	{"cloze_1":"d58a6586f490d9098bc3f63970f198db"},
+	{"cloze_1":"67b50f00020848efee61d32a726d21aa"},
+	{"cloze_1":"28b50f5961c485e3a4ccdb65a979b682"},
+	{"cloze_1":"933f2322af67d2b8fdb18217dde9369d"},
+	{"cloze_1":"352cd9d1e003da0666eae483657ead19"},
+	{"cloze_1":"78338da606a32899872e4c37bb2905dc"},
+	{"cloze_1":"482f9a41783a0f9ecf31c327eec3f44a"},
+	{"cloze_1":"cf37160255b3e493ce2186bdae1e297d"},
+	{"cloze_1":"d16aae9bc762d69ba42a245031ef94d8"},
+	{"cloze_1":"93b5ead596f5d1c57942aed1d6fb3290"},
+	{"cloze_1":"802633348b3e6aeac29dc83ba732ef09"},
+	{"cloze_1":"bf8fd1bac04d26bd01357379261487d6"},
+	{"cloze_1":"765c5739e3410bd09c4a0ab54d60d76b"},
+	{"cloze_1":"84386d1464dde75c51da4cedda2b698a"},
+	{"cloze_1":"b8da915ae2963565cad0a3a49dd9e29b"},
+	{"cloze_1":"d4fc463b555f5f8fecd7a51327372cbe"},
+	{"cloze_1":"e9ea2fe2132a2ccc97cf926f5e16fc37"},
+	{"cloze_1":"0a2d51051f474e7034cb64e7e5e94e9e"},
+	{"cloze_1":"9cb2a519b1febcec5a24da072b4e1230"},
+	{"cloze_1":"1b2629efd02a8232db3f16cf74e35efc"},
+	{"cloze_1":"2b20431703e41fe1bce4c204d34a501e"},
+	{"cloze_1":"49d8e6b050d22ae984fe64459a2146cc"},
+	{"cloze_1":"b7a6378c79428ce19f4f770567bd3140"},
+	{"cloze_1":"236a3c9ed34cc958ea53b2a9493ef09d"},
+	{"cloze_1":"25383c969cc234ab86af609249949793"},
+	{"cloze_1":"18d7b35c9da0d1d0654890ac867fdb2d"},
+	{"cloze_1":"d6abddf2146e67e04bc2b5320d174ca3"},
+	{"cloze_1":"a93ae8b0564acab3bdfebd0f4159e976"},
+	{"cloze_1":"b6d6bab54bc571c9cef0aee64ee82d3d"},
+	{"cloze_1":"5e0a98c6c6d7e09921cb7afbeec50eb4"},
+	{"cloze_1":"6680e7e52f474bfe8eb33b8d1b867843"},
+	{"cloze_1":"4c1cf580dee418c56ac4ba1d020aaaac"},
+	{"cloze_1":"dfe6d129299cd31029dca814527ff666"},
+	{"cloze_1":"4a343ca0b027e861b7cb7e9400d1e26c"},
+	{"cloze_1":"0a9462dc01f8a657ab8e9fdc26182730"},
+	{"cloze_1":"f1f63d4646b5ac4fd9a69b1138251415"},
+	{"cloze_1":"e383c901a619cddcf5dd3ed327f00991"},
+	{"cloze_1":"d2897d8dfa9361c38e0a38c38976a728"},
+	{"cloze_1":"b8706ec8b4b4b3616aff1e421dcb4a57"},
+	{"cloze_1":"8ab6313f0232f2ba5ee6ee4fd6677517"},
+	{"cloze_1":"a83710c85125511d887dd39a62e8d4a2"},
+	{"cloze_1":"ebec33431974715d5910f1dee25f5184"},
+	{"cloze_1":"592216f1eb283a72ff70f847631ee182"},
+	{"cloze_1":"6438b206b3358d04826072b2862bd824"},
+	{"cloze_1":"6fb950b3fa80316c3fc9ad21aed491fa"},
+	{"cloze_1":"319a7ca6a92b2b35533e864d9422f6df"},
+	{"cloze_1":"35edc1b90e0bdce81313d4667b9cad90"},
+	{"cloze_1":"899cbc632dd8dd9e9c09b6870333a63d"},
+	{"cloze_1":"7c66fa5195f0578927a723339ba66d68"},
+	{"cloze_1":"90d1ec5ce6fcb034f785f5daf464c1ae"},
+	{"cloze_1":"ad725897ce142ad2defe826ac8be22a8"},
+	{"cloze_1":"2f5984ae2d8e1709443067c915f7470e"},
+	{"cloze_1":"e321d3bd558bdc8cd6fb88f1d0ae389e"},
+	{"cloze_1":"18dc0838c87cee5fe4cd794c00700def"},
+	{"cloze_1":"ff3b066b64e42588178f43f5017cc300"},
+	{"cloze_1":"dccf99eb24af5016802bbb381e39314a"},
+	{"cloze_1":"2b11440eddcd3e4a9bd1a21dfe749f4d"},
+	{"cloze_1":"08afd79b8cc9d18ceef5da3543aeada7"},
+	{"cloze_1":"5fa3abf8c72e8d2015753d996e93f3de"},
+	{"cloze_1":"304959e5740760527da7958bf480622f"},
+	{"cloze_1":"80033743bfaa87a929af71fee9d2163d"},
+	{"cloze_1":"00dadf79978146b55c3338203d6815a9"},
+	{"cloze_1":"172f9a733bdf493cc070c22b3f086262"},
+	{"cloze_1":"5167f4b8266bdad9a72fc14289a956c8"},
+	{"cloze_1":"35242a716e298096e32ac72135221b50"},
+	{"cloze_1":"c67093a6e166d45c6c8f9621796ede26"},
+	{"cloze_1":"6bd229d27ce286ec9a92f017218c083a"},
+	{"cloze_1":"3e92a8016e3ecae6c6e189b3d25ab981"},
+	{"cloze_1":"497ad713b0e8791df44cbe76b8f58c9d"},
+	{"cloze_1":"2931165525dfe48798a53b0b66f92663"},
+	{"cloze_1":"c52f12e6cb8922364b7bbe2fe5d8cd31"},
+	{"cloze_1":"38ff4b0e3077e4044c34aaa21ef19f9f"},
+	{"cloze_1":"e4deed88c3ccedf45fbac569a5be97bc"},
+	{"cloze_1":"80a26b4cadc2a36f015eaaf0ced6d243"},
+	{"cloze_1":"7ec0df4a8b770caaae2be1f094f7d7e2"},
+	{"cloze_1":"dc17aaf452eac0af4664ddccf40c66f1"},
+	{"cloze_1":"4aa51e313c6f3965e4915afa2dcc14c6"},
+	{"cloze_1":"49602a222301eab0fdf29da2e0360af1"},
+	{"cloze_1":"7173800e78a13e96faf7bb38d0d7d6a4"},
+	{"cloze_1":"83bbd470380a5583c6819648b8ed7b38"},
+	{"cloze_1":"e633357f92394adbdca50ee6ec9e25a2"},
+	{"cloze_1":"44db73b632385e4eddbb6ee303991e57"},
+	{"cloze_1":"664d261bfe1c130e500354ab9319442e"},
+	{"cloze_1":"a8a74cd75b2a3f767b3495e026d89314"},
+	{"cloze_1":"b305d397ac442f05a63bd5ccbf719768"},
+	{"cloze_1":"9822c475104deb1ffa059a71ae8156ae"},
+	{"cloze_1":"d135963f3473c3a869366ccca7f12dc0"},
+	{"cloze_1":"79a2052fbf090849d84978ec82d22093"},
+	{"cloze_1":"19337c39d84e10f8604ceefc436ad8cd"},
+	{"cloze_1":"b3c95dbae9cc1e70a3a44af1e4868435"},
+	{"cloze_1":"5947ca9746b79dd8c6dcb42c391e09c7"},
+	{"cloze_1":"c3bb59a0dd47688ec205be28041fc45d"},
+	{"cloze_1":"522c2759c4f961cbef36f7b3d3740b80"},
+	{"cloze_1":"a545cbc512522df43f287a519ddcf0fd"},
+	{"cloze_1":"2786607b8b51daf6439a405dc1f68910"},
+	{"cloze_1":"b558e2912b664ae1cb55b2862cff3490"},
+	{"cloze_1":"460d51fcaf50cc6fb780f9f2c516d27b"},
+	{"cloze_1":"a0c08bee2514d959ca853ff27425a9f8"},
+	{"cloze_1":"baf0a6f61fba4a8ecd7a21dc6b9af419"},
+	{"cloze_1":"1a6ad3b457c01a335a1a295e811e9bd1"},
+	{"cloze_1":"6afc96da8fb0facc79628c1595863e1e"},
+	{"cloze_1":"c7081f6caf76ca882687b0a4a78d2458"},
+	{"cloze_1":"3749d41f1ceed06d8bee0f748b80a229"},
+	{"cloze_1":"5b2d5bdce116266ba25dad9c85d14f26"},
+	{"cloze_1":"95f5804c493d423e35577957bf61e01d"},
+	{"cloze_1":"b33abfe08e9d411411d536b76f3bf851"},
+	{"cloze_1":"2ae6401b5a7c4c5ff116b016b37efb76"},
+	{"cloze_1":"1cf09915ebb446ef597d1046cbb0d8dd"},
+	{"cloze_1":"90cd44cd95484c0671af27a582707592"},
+	{"cloze_1":"740af3dbd9535c36ca565919988e02f5"},
+	{"cloze_1":"23d997643850957d7eca1ff03d8a68f3"},
+	{"cloze_1":"611a2c2252106d2ab0790cf65a1a3f69"},
+	{"cloze_1":"4b5435af8391fb01fd791b96f1d2f050"},
+	{"cloze_1":"b7ae1c0a5a265bc9dfe0050d7b3d6ead"},
+	{"cloze_1":"4c2baa21dd28609a80b571ca34c99b91"},
+	{"cloze_1":"52a19ea12b26fe7b7bb1b14901aa2141"},
+	{"cloze_1":"d152cef8e2860da4ef4c95c69fa0d633"},
+	{"cloze_1":"4f79a334ae40c881dbb735b4bc92d7aa"},
+	{"cloze_1":"946e3cfe1290ae19a296d7b68269a3fd"},
+	{"cloze_1":"c95550a65b3fbace490f3039ae4652f0"},
+	{"cloze_1":"a5fdc74554bf818218850a545e548aa2"},
+	{"cloze_1":"19238150903b4991300006295c37dc7f"},
+	{"cloze_1":"0207027662b434a9671394774bbb1812"},
+	{"cloze_1":"e6202f3d59293af9052eb8e3a13fa23f"},
+	{"cloze_1":"c7290c77ba3abf7f4060227001663f96"},
+	{"cloze_1":"32a3d1091751eb1c01c46763ee9f64e5"},
+	{"cloze_1":"ed5af2de9ff58db79d3f6dad430e3855"},
+	{"cloze_1":"48bd13dfa757228aab24e095a2ab6827"},
+	{"cloze_1":"040d4defaa64385dde84de62bfc6773b"},
+	{"cloze_1":"1882cdcc0482e2223b104d32eb0b9243"},
+	{"cloze_1":"c7da5c538ed31c702f1256b01acbffa7"},
+	{"cloze_1":"fdecde0ffcf6675a11830bfa7494aae4"},
+	{"cloze_1":"912e5144f8a66d76e3fef6896356166a"},
+	{"cloze_1":"316fdef25e1e585a619b230c2370816d"},
+	{"cloze_1":"8d62ebca5b8b42142f6342d4082178d4"},
+	{"cloze_1":"6541fa84d3d4942bfcb2c740ec093379"},
+	{"cloze_1":"7c31a4e0f1715a776a2a8dda1e75e6d8"},
+	{"cloze_1":"739466110dad8f658f948ca61abf62c3"},
+	{"cloze_1":"b27a20be3a0ffae5e433467c77bfb07a"},
+	{"cloze_1":"e2a9bc3a9de2c7b6780701c70f546c27"},
+	{"cloze_1":"52933c43dc132bd538551d311c0516cf"},
+	{"cloze_1":"69949a3174044e20b3ed21a3bad134a8"},
+	{"cloze_1":"dbf0d4cd8ab8f47048c12b3b5e504ab3"},
+	{"cloze_1":"fb81fddddc9e99d5800bebd5594d2417"},
+	{"cloze_1":"5290b7191811cf484c2e6eacdd9dc5bb"},
+	{"cloze_1":"f31092974b8398acbf46379d6bf5a7e7"},
+	{"cloze_1":"412a8db3b6c090abb6ff0db49bcb3143"},
+	{"cloze_1":"386a576ed0f94d32160b7b8497dd0e21"},
+	{"cloze_1":"7de1280e46775b3cbaba123d5fae62c2"},
+	{"cloze_1":"1f0c17df37204b22f3fcf4722c8fec3c"},
+	{"cloze_1":"8e69dfa6dbee6ab36ab93cfbce15d9c8"},
+	{"cloze_1":"940bd33d205c513d82b942bab98d2150"},
+	{"cloze_1":"406a6b785b047b36ac6b4e3f21ed49d0"},
+	{"cloze_1":"5459518963a12777ab90c4c7b1b81bd9"},
+	{"cloze_1":"231213670e45aebe2c11b3e4fadcf8ab"},
+	{"cloze_1":"92c9bc0d86cff1ccacf0af6494c7b47f"},
+	{"cloze_1":"90d681f1d135b219dacffcf3d303e203"},
+	{"cloze_1":"71eaf9d59395d67a4b6c3fc6ea9e390e"},
+	{"cloze_1":"ef779f457537610c86830bac26737dab"},
+	{"cloze_1":"cb3a4d9fa3238a655eaebe03d3cfb137"},
+	{"cloze_1":"caf972683eb05c001156e4c1c09be73e"},
+	{"cloze_1":"f07f4e75c2a3daacbca7fb2056e56b51"},
+	{"cloze_1":"846a31c49a4f549db7aea4a492ea8ad7"},
+	{"cloze_1":"a6b9fc53a4ba50e74bd32889120b919c"},
+	{"cloze_1":"5a978b395cc7c5aa636c663287fd6e42"},
+	{"cloze_1":"c8f880469d3babe13dffced5fa349c19"},
+	{"cloze_1":"ea715e9274805cce0918a1ae7fc1b35c"},
+	{"cloze_1":"02ebdfcae17181c69d2cbecd02fe42a6"},
+	{"cloze_1":"6262fc7c412c5681c957ca0de23fa1e2"},
+	{"cloze_1":"3450dc650e7121c252248f9c11d11ff9"},
+	{"cloze_1":"a46760333c4446570cf7f5262abbc346"},
+	{"cloze_1":"5dc6a0217d3ec551d233f3bd573ddaf2"},
+	{"cloze_1":"b790df665113be183856f5c9767f2d71"},
+	{"cloze_1":"a29cd70fbbe03278a78fb2d27fe0a7d0"},
+	{"cloze_1":"46edf43cf686c5298ee6ae0b94804d83"},
+	{"cloze_1":"1355b023ca25e279519e8ba9841cfdc7"},
+	{"cloze_1":"925e3488215830a09e5ecee8bdc2af1e"},
+	{"cloze_1":"725ee16b39abad7785095ccfd1db35f0"},
+	{"cloze_1":"e453d86e4a818a90554db0608eddf867"},
+	{"cloze_1":"67683f297402fde707f4e65a2cdbaf9b"},
+	{"cloze_1":"fb97ac93e04cb0ea1060a32f39b569fe"},
+	{"cloze_1":"69c569a3ead612e21ea0ebfe3aa1b290"},
+	{"cloze_1":"59f60f596247dc1e27bac4a5ca8ad58d"},
+	{"cloze_1":"fcedeb38961acbf6f50cf2cfd03973a9"},
+	{"cloze_1":"817c8c8fcdac98de5d0c02cb88801743"},
+	{"cloze_1":"5c866e7bb60844b46285e6bc12422714"},
+	{"cloze_1":"a2dfcf6e054358f23a0f57cb27314baf"},
+	{"cloze_1":"4c5f605ff76e5f5836bb43caf74257c3"},
+	{"cloze_1":"3bff22b325a05faa8d95c9047a6c3f67"},
+	{"cloze_1":"35e77b98d95bbfd94bdb3050a981791e"},
+	{"cloze_1":"fd43b8bc83f3129d02a76ad70b73939e"},
+	{"cloze_1":"1194f40d82634cdbe6cf12c57a5f0f17"},
+	{"cloze_1":"aa93f36a4dcb018b314902d8914bfc87"},
+	{"cloze_1":"a4d529b91c2fd117e012028a58e2c15d"},
+	{"cloze_1":"05b01c081f6c9b592fa5b5be1030d05e"},
+	{"cloze_1":"5896185baf9ac3c7c2f50ce86d557acb"},
+	{"cloze_1":"b7ddfe367b35985031f1802198606606"},
+	{"cloze_1":"12f61a9734c8658e801f21d4fa04b2c9"},
+	{"cloze_1":"e6db6c27eb1c0b7403f11e3108f5de28"},
+	{"cloze_1":"e0c0cdc81dc26bbe3e7a94210ab5fc72"},
+	{"cloze_1":"ac39b6ed644a4c358264d6c416d21817"},
+	{"cloze_1":"3a2988013fda4a0eb3caee2db2fd3c19"},
+	{"cloze_1":"0ff2b75ba1226cec031253d93fc822eb"},
+	{"cloze_1":"4bf8256e51ce4e985b8aa0eb43b54054"},
+	{"cloze_1":"37619dc91739ea5705f6e1d2f7dee811"},
+	{"cloze_1":"275bab7a34e54f9a0b57d5b0a054bdf7"},
+	{"cloze_1":"84f7c8ee07ccc4790f063140ded00605"},
+	{"cloze_1":"94d173cf3e7e423a00427d5108428ebf"},
+	{"cloze_1":"01abae0e3611f0fac653405b2c174390"},
+	{"cloze_1":"4c137e943aa503ce7708a144294757fe"},
+	{"cloze_1":"bcee165298a71c257cc44e56c6e172a3"},
+	{"cloze_1":"4502475ebbdd9cba513cb4b9297451d2"},
+	{"cloze_1":"7fb3f069534768063d383e90578e4860"},
+	{"cloze_1":"188500df0d5862a00a8099b987760417"},
+	{"cloze_1":"2242efc70e24218989add49c31cd00e9"},
+	{"cloze_1":"2d93bc6f6160bb246d3ebdade189aed0"},
+	{"cloze_1":"7c4207574198b8902df6bcc59ca514b6"},
+	{"cloze_1":"e0d3d9ad9ddcc1c30327ce4169b32a7c"},
+	{"cloze_1":"b183179f9a4b67784cd5a9498d4e3b45"},
+	{"cloze_1":"a0b4995b5f1685429274273e402f2d41"},
+	{"cloze_1":"5c73a709df5b68abaab3522a8576f38a"},
+	{"cloze_1":"ca3cddc78704b3f04db68f70e49053d7"},
+	{"cloze_1":"ebf4a413eaa7baaba0306ca1bb7ac53a"},
+	{"cloze_1":"9a5b5d0f6006aede288bea6f573ddbb3"},
+	{"cloze_1":"37a267ab36e5c6fae6f9a2c80924121f"},
+	{"cloze_1":"6bc9877b1a5b7b1fd99749c77537ee90"},
+	{"cloze_1":"0a3c2d1507d8f6a3dcaae666659d8012"},
+	{"cloze_1":"0856ada445c41ce2b99f4c39d03e0a2b"},
+	{"cloze_1":"ae84d09c9f9d1e25bd8bda8d8e4d78ec"},
+	{"cloze_1":"23afedf469e58399a6f9b92c402cf4e2"},
+	{"cloze_1":"084dd307f2034de8fa7c4f228c427864"},
+	{"cloze_1":"7ced9bf9fa63bb526b6b59ad5d0b3c74"},
+	{"cloze_1":"674c849d52074ad8c452297e6ab7fcae"},
+	{"cloze_1":"87afc0e700d1bb5a5720dcfb3af530fd"},
+	{"cloze_1":"7609b9c2192262ef1aa4e6bdc0bac0bd"},
+	{"cloze_1":"089a6c2851b364e47bfa9bcbd59616d6"},
+	{"cloze_1":"76289f561243807ced7acba2617c277f"},
+	{"cloze_1":"e52288a8f57ae5fb40ac8f79d679d26a"},
+	{"cloze_1":"268cc8e2a6ecd4a74ab35016d40aa41e"},
+	{"cloze_1":"36e5ae4a4a18eb6dab57450481031880"},
+	{"cloze_1":"2f43d992a764a2b90e05103997763c47"},
+	{"cloze_1":"d905d63dc52a744e7d0ee88183bcfb18"},
+	{"cloze_1":"f9b2213c59bc9253346b377de711f5bc"},
+	{"cloze_1":"2646f4a4c0a8e002cce2568d8ac3a684"},
+	{"cloze_1":"cef093f292f23e8b249ff0e3f0590912"},
+	{"cloze_1":"d9fb702def827a49a34d46ba8958d1e0"},
+	{"cloze_1":"ebb324611878914b2f87f6396117c2db"},
+	{"cloze_1":"26a7d552ee485312cdf189754935b9a1"},
+	{"cloze_1":"e786772c75c3e8408a570d86e5a20438"},
+	{"cloze_1":"3b54bb223ffa16882fe20506c9ffbcaf"},
+	{"cloze_1":"674102e70864b3a4a54d5f86dce9d69e"},
+	{"cloze_1":"c1091d3e56d4f379488c8fba0806602e"},
+	{"cloze_1":"d3e40a9f81c8f190d6da55018665a823"},
+	{"cloze_1":"ce3a1fc4a2297aa184b346d85b66d937"},
+	{"cloze_1":"60488c2d0d07714c8e2d6a40e0d2265b"},
+	{"cloze_1":"22ecd032828e2462bbc0cb8e2dcbc9ae"},
+	{"cloze_1":"3f493660c25778044775c4d62bf0fb2f"},
+	{"cloze_1":"39e3843a74a8d30036db0dfb0b85a13e"},
+	{"cloze_1":"7756bcb0c6e4ca1448fd06f41e081df1"},
+	{"cloze_1":"05f5e2db112ff7b2cbb232c89027f5a5"},
+	{"cloze_1":"73875bc0204bec381014f1989d5af915"},
+	{"cloze_1":"0470632e9456b4f3e7817ce99024baab"},
+	{"cloze_1":"2998e2cc002041b4c5e607b869adf738"},
+	{"cloze_1":"6270fc64fcba7fa0c341cc737ae0c77d"},
+	{"cloze_1":"9aa953b54c047638ff2c9025ffa89104"},
+	{"cloze_1":"e8cbb5d671da9153900797a57e825b6d"},
+	{"cloze_1":"053d348ab3a477a77ef0fd00b35ae8f1"},
+	{"cloze_1":"08375d22b5bb328f597c792cb7e06917"},
+	{"cloze_1":"890667400c73e99a09ef7bfed201dcf7"},
+	{"cloze_1":"b578f469b3d2956584b50fad0363c756"},
+	{"cloze_1":"e049a67dd96888249f85bc897ce02d89"},
+	{"cloze_1":"bc2b81bb37fb29c9e973115c0d6a1bb7"},
+	{"cloze_1":"0960f6d9d284a8e36cbf38e077ffd667"},
+	{"cloze_1":"b27806a19046c70f6adab172af3436af"},
+	{"cloze_1":"92f2750cd907c69b188921456546a186"},
+	{"cloze_1":"d89639cfa6151cb79f12b8c10123aa26"},
+	{"cloze_1":"759107f0102a7f6250ea4ab69091b746"},
+	{"cloze_1":"88cdc47fe6f93298f4c1db6a9e7322a2"},
+	{"cloze_1":"6c399779af141bccd5fa315c7d6f29a0"},
+	{"cloze_1":"a913543540294d6ee654245f348af0d0"},
+	{"cloze_1":"8086505fca29fc81fc3913fb72b40e22"},
+	{"cloze_1":"ce8ecf43e2d11c59e554ad86068e3bf9"},
+	{"cloze_1":"ee9c556831dc3cce76de9de0c741ef7d"},
+	{"cloze_1":"fb51e3707a01a10713d032bdf7906faa"},
+	{"cloze_1":"3e07e8177284974c8221826c271c47a0"},
+	{"cloze_1":"dba3fecfd5ecece4d7b7649d7ed80d2e"},
+	{"cloze_1":"ac8b97e6bd02a8e93b3b064150779fa4"},
+	{"cloze_1":"2bd68ff3f176be0547266449844b57f9"},
+	{"cloze_1":"6f22d37398c571206f42cc72f9420433"},
+	{"cloze_1":"632952cb5f26c91987ca49ac8c1684e2"},
+	{"cloze_1":"3a457e607f129db71f84a99e81f4148c"},
+	{"cloze_1":"7ab8850f14966168ab774618a48ff23a"},
+	{"cloze_1":"9ed0dbc3bc30816ba31fbc796290ffed"},
+	{"cloze_1":"07ea6b50f7dbe67a17c406e24545082c"},
+	{"cloze_1":"88ca46022d308ef52e1ae7d4a5f4102d"},
+	{"cloze_1":"9f5ce77c17b87440c1461edbb75e89b9"},
+	{"cloze_1":"8b5bfcf79a45ba6493351f6f1d8e8706"},
+	{"cloze_1":"86cc942d7188051c67f64498fd9e4c0b"},
+	{"cloze_1":"85347a080ccf1c030b1f2edc74d96f71"},
+	{"cloze_1":"2130dd1707ac0ff400042be8d7ea2b31"},
+	{"cloze_1":"f2e25d97d3738808346be89d0d4ad7b6"},
+	{"cloze_1":"f1facda80851f48bbdfbc77fcaff3c63"},
+	{"cloze_1":"f24d59ffbaf5e1fe5a6cddbbb80d4ad2"},
+	{"cloze_1":"cb5ced8aab3587087205a2aa27683c65"},
+	{"cloze_1":"3ac9f35278447f85316867748bc844ff"},
+	{"cloze_1":"69a408409529461f130de2d2b68db3ed"},
+	{"cloze_1":"651098aa2ce1f552bd80102e04bd4c25"},
+	{"cloze_1":"cad7d69dbfdff372d24869cc1b6e9acb"},
+	{"cloze_1":"beaafe3c5b24235300c0db5535a6cb0e"},
+	{"cloze_1":"f07d63b808eabbcee8c604c673ada77c"},
+	{"cloze_1":"68a9d70c19aa2b2f0876db005b30c826"},
+	{"cloze_1":"96f41921b25a5e429ad377ad3a1c28f4"},
+	{"cloze_1":"03b5c259863af3c6d42e48573bc19af9"},
+	{"cloze_1":"60d1083a09c9efc5ed8c10a6715f3f12"},
+	{"cloze_1":"414acf5d74e5fb58837b89b6bc7ecb9e"},
+	{"cloze_1":"c6a88ece285dbfd845c77c8a34dc3243"},
+	{"cloze_1":"e1f310d854abf69e3636ca54f1b93139"},
+	{"cloze_1":"1dc7dcaecc714e15e1146f0203659453"},
+	{"cloze_1":"6197bee97381629c01e33a8d59c5c84f"},
+	{"cloze_1":"02e2e6858d9ad40987b1961e6dae3954"},
+	{"cloze_1":"f1b6c0025708849343714a24f700fb07"},
+	{"cloze_1":"7aba0f6b397ffc3cacdf4a7271457a33"},
+	{"cloze_1":"57c6684ddcb9578c3b1ef42a4fbd97cd"},
+	{"cloze_1":"deee2e0d025e7110d1ff7fb4dca7f5af"},
+	{"cloze_1":"406553e03a0269342e090132c472c7af"},
+	{"cloze_1":"b0dba0f421ff7d8de8d5b79a887b72f6"},
+	{"cloze_1":"94b6d46999b421c2319f23c89f203a4a"},
+	{"cloze_1":"6198b159001a70b92e988c6cde70baa1"},
+	{"cloze_1":"5a9a80dffb465ece1096a2ec732e983c"},
+	{"cloze_1":"14a6859b12287d5f6c01aedfb1c116e3"},
+	{"cloze_1":"ac4176486994aa5b1834b831a76d6089"},
+	{"cloze_1":"2382105d32a11ce9703c4cb1344c7df5"},
+	{"cloze_1":"9a25b9073bc3ddcb0f5d862d24cd0b58"},
+	{"cloze_1":"64287d1a25456295d6009200dd7ba6fe"},
+	{"cloze_1":"ffb32644240e6fd4014f7be6e2fc227b"},
+	{"cloze_1":"399e67477da3b4e79fa6f92b47125ded"},
+	{"cloze_1":"f89d75f5377e84320a585a8ac96cc1cd"},
+	{"cloze_1":"6de0ea0f2668e2e9e345c12c50cce01c"},
+	{"cloze_1":"88580d473a2c6123c10233b697bd74a5"},
+	{"cloze_1":"0ac4f32864205ab82529ed7256e54f2f"},
+	{"cloze_1":"cb1ab92e848ce954ad9c1a358051c526"},
+	{"cloze_1":"b4464e95e9177f71e0d4a2dbb82be963"},
+	{"cloze_1":"42da4fdef3b1bf262bebf822ceeeea3a"},
+	{"cloze_1":"b3caf99ca5c866b22b973a45e2aab85d"},
+	{"cloze_1":"446605f7f2597c3a751599e1dd6b1e6d"},
+	{"cloze_1":"898f737efa644e6c9bde171f322ee52d"},
+	{"cloze_1":"b352db36c65f22609062388bf77d7348"},
+	{"cloze_1":"e7be3bdc6fba5de2a7d4b9f431ec80d9"},
+	{"cloze_1":"727e1943e12ce49d22bfcd6c1c2c8eed"},
+	{"cloze_1":"6649e5fead7aba3befadbc32b23a3ef7"},
+	{"cloze_1":"9520e13dcee76d30a35a8a348eed805e"},
+	{"cloze_1":"188bb165a4b653cb26346e3ed405adcf"},
+	{"cloze_1":"9aaff0c648e1a329a477b2d35845770b"},
+	{"cloze_1":"5dc89ec5af71069f3ae50adbfdf1f0d8"},
+	{"cloze_1":"74958984679380a708512f78c52db7ba"},
+	{"cloze_1":"bb77e50d8969156890f688c78edc3580"},
+	{"cloze_1":"db3505287597f29a38c945096055a989"},
+	{"cloze_1":"5c8224b3df1a0a6c297b8f49e95b59cb"},
+	{"cloze_1":"a6292a8c82531c00cda013b8328270de"},
+	{"cloze_1":"a1d897caf1e67cb9d9bb23ba100bdd5b"},
+	{"cloze_1":"e3f68bac4823070ecb1d05e30735f6c0"},
+	{"cloze_1":"ba1a2b65b43e82d3827476440843e3e7"},
+	{"cloze_1":"78a09200260b1085360fbd7c1e581065"},
+	{"cloze_1":"fab722c57c5dc5e2aca14d5f137b8b27"},
+	{"cloze_1":"c5437e7dc3bac4495b30d452a79cef75"},
+	{"cloze_1":"15773c93bc3055ff8b9a2834089efbb1"},
+	{"cloze_1":"1130e293a29a38c7ec1d2234f4d382fc"},
+	{"cloze_1":"effe33668c3a2b193ec7a7307db15b8e"},
+	{"cloze_1":"c62dabcbdf15b8583ff3d9e51166ff93"},
+	{"cloze_1":"b2eebe8f39420ec0e32c6464ef7f5517"},
+	{"cloze_1":"483eab765cd3de06b96d28866d1117bc"},
+	{"cloze_1":"ef11222b7bc13e8906ee5f55a315fbae"},
+	{"cloze_1":"b452247c9e166b5fece4ea8f58b34217"},
+	{"cloze_1":"8a818fbe8929c96fe8856406dc41982a"},
+	{"cloze_1":"38daa460ff15a1a477c44514137ba9e3"},
+	{"cloze_1":"7e0d61a120929460d2f690087c10933f"},
+	{"cloze_1":"61cefbd001a0559c123bdca7574835a7"},
+	{"cloze_1":"098ad7f48f4a786a3c2a9626dac87411"},
+	{"cloze_1":"e19016cbb797964dd896f4215010a23c"},
+	{"cloze_1":"631460ccec66ab313d7fd505f5c92ce6"},
+	{"cloze_1":"ba576c17d91a9873f4f5064ad479e7aa"},
+	{"cloze_1":"c7d37f3e23909dcbc3522aef3bbad1ae"},
+	{"cloze_1":"b8cce5be7cb73cb6f687598839d28f60"},
+	{"cloze_1":"c7f12427102e98f1f607fabd1da2a7e9"},
+	{"cloze_1":"308d45863e6089c6cac101a1708ec8ab"},
+	{"cloze_1":"d0323e7bd61b4594fef6151f82148544"},
+	{"cloze_1":"576cd87cbe8cbe0d1682c41bb118c469"},
+	{"cloze_1":"16e7d5074fedb52f5e2b0d5b8c662cac"},
+	{"cloze_1":"22ffefbe68546c5555b2a24fcfef6789"},
+	{"cloze_1":"41152cb333aec6e1371cff34e83c9131"},
+	{"cloze_1":"204718919d551be5b7ad75e0bc535aa0"},
+	{"cloze_1":"cad5aba4c1f17c26cee56bd5e0db649c"},
+	{"cloze_1":"92632a2f7e8b24ba0e13bd215c4a3d76"},
+	{"cloze_1":"e9582e4fd537b2eefb086fbba1f0bb03"},
+	{"cloze_1":"9ba1ec9cb882dae3b4197a387a4efbee"},
+	{"cloze_1":"44ca4425559d6cb9f0b970b64c575c4b"},
+	{"cloze_1":"34319795fdd3f195ac85b824df5d2b36"},
+	{"cloze_1":"a849d9a23d8686e8b1f85397ebc4c9a1"},
+	{"cloze_1":"7008dfffec5a4a931cb439ff863b60e3"},
+	{"cloze_1":"127155ac48c7c67fa4d407ea5bc9e0f9"},
+	{"cloze_1":"ff7ae8a7700a9fce1df2f5c2f93e4d17"},
+	{"cloze_1":"b8669e183a86c5fca784834849c21b17"},
+	{"cloze_1":"a458006eee7575b3bedfdd2eead80fe1"},
+	{"cloze_1":"889a3f7ca769b0747b8a993cb06c0113"},
+	{"cloze_1":"d552f7fbc53d1db45ae25febb865c63a"},
+	{"cloze_1":"b71fa3693705260d729c381aba0ad232"},
+	{"cloze_1":"b7ef50685a1235d48bac397f624c90e5"},
+	{"cloze_1":"b9433ce6439213b4ff9fb8739adece6b"},
+	{"cloze_1":"50e030c4d01ae9eeca09e8e3c9a348c4"},
+	{"cloze_1":"bf3aadefc9f8baae11deb02f5bc2845d"},
+	{"cloze_1":"79bbaf4c533cb94c661738b01116aabb"},
+	{"cloze_1":"96a5534de2dc8d01c59816378b7fe895"},
+	{"cloze_1":"8c3901d0ec190e0d3e174b94a07bcb16"},
+	{"cloze_1":"671e574e6f81854281a26bceb71abc0f"},
+	{"cloze_1":"b47128387adedac46016a1318fad7e86"},
+	{"cloze_1":"691e483f3eb512191b3ecb2eb2ba3020"},
+	{"cloze_1":"7335e7da705169d7a8fcf86705e8c9a3"},
+	{"cloze_1":"a5c2c38b0fd1060ff0c13a91117d85be"},
+	{"cloze_1":"3147b2cf46be530ceeb883d6a42f7508"},
+	{"cloze_1":"308e6ff161d06724a7cc2097d0d60775"},
+	{"cloze_1":"57c222fd21956d8da82caa1153df0a26"},
+	{"cloze_1":"31c918657d88492e62f809a7abb08dd6"},
+	{"cloze_1":"8e188a312cf181258f84c16520d8da8e"},
+	{"cloze_1":"09104c409f50a60b4af1eb8f6c5025d0"},
+	{"cloze_1":"d806d61d6b991d6b422a429d23b3de39"},
+	{"cloze_1":"e166ddc547fe2a7022b1a62422e7445f"},
+	{"cloze_1":"b02f685765dc867ff664b5e414ccaae9"},
+	{"cloze_1":"1d9af05ae2268cf04effff2625a99255"},
+	{"cloze_1":"08f7f478e380a6f6555d10be886ec2fa"},
+	{"cloze_1":"b8691ed3ca142c7ff58760ccc53df89a"},
+	{"cloze_1":"1f3c86fff6df4ee3be548b69e75a6e9c"},
+	{"cloze_1":"589ad6709e8e381a3844a4e1a6fe8202"},
+	{"cloze_1":"f87a8db5e855874265dee93cc788d8e3"},
+	{"cloze_1":"107afe32293464e7e33e0371c8813de7"},
+	{"cloze_1":"09aae694dfe8b0a199f2e10576a1fd51"},
+	{"cloze_1":"f2e5bee05c98add6736562d5e9ea5db9"},
+	{"cloze_1":"9444cf96ea51b78bc9deadb53984ab31"},
+	{"cloze_1":"2ed8d21e6997ed2716b700de7ca2570c"},
+	{"cloze_1":"47261f2972cc641e601471d835f48354"},
+	{"cloze_1":"2d17f6646c4c2d358b00aa7c82870576"},
+	{"cloze_1":"30a266ea9bf7254185c1df926f661517"},
+	{"cloze_1":"1b2bc4d06c9a41a8d9f02f6eb0c51169"},
+	{"cloze_1":"4e7be9688317bcf06cff852df81a4cce"},
+	{"cloze_1":"00bb01a93e9e1bf6ba7d43d35aa70b36"},
+	{"cloze_1":"fbb51a28e3b36218708e53e36358fb99"},
+	{"cloze_1":"315cf3eb0f0eb325297c94364555d96f"},
+	{"cloze_1":"961c6ee3f0f337ff6ccd0641b18e9b31"},
+	{"cloze_1":"5e78e6258fbdc2259faccc64b2a4e6af"},
+	{"cloze_1":"3cf0d232f7dbd9dde2dae76363c3ec30"},
+	{"cloze_1":"5bed6afb5fbac40822c47c9c09baed5c"},
+	{"cloze_1":"23ae45db76817c3d80c86ae1c92b6bea"},
+	{"cloze_1":"5b74eb628cfbe0c314ea3399fc708522"},
+	{"cloze_1":"4d70cb89b7f6ca3d47d53cddc340a20b"},
+	{"cloze_1":"8c6961d51dee64da71c03c0d7508b9ef"},
+	{"cloze_1":"c2a8042b455e069441227b184555d398"},
+	{"cloze_1":"4b1475ab60d3966e62afc05ea161da01"},
+	{"cloze_1":"7ec4b5671ee1945a6f4bf5906827471e"},
+	{"cloze_1":"bbf6c1f8fc6f84ff571a1b94af5a6a72"},
+	{"cloze_1":"a273c004c558b067b4ca30d72a898c28"},
+	{"cloze_1":"ccb20fefc1d733280f3d4c9873ed38bb"},
+	{"cloze_1":"b709963a759b616920c25b89dcdd48a2"},
+	{"cloze_1":"94b88c42c5634eb69783d3d56c50b996"},
+	{"cloze_1":"7aa72057d17b096bac8071e4d13a120f"},
+	{"cloze_1":"eae25cc4b95662bd3c54539e6532159f"},
+	{"cloze_1":"cdf4bd9baf3d01b857e111923d4a469a"},
+	{"cloze_1":"3bf9a2374531d86d107d7771df094616"},
+	{"cloze_1":"9cb008a3adea9b1fcb5db2c2fd855145"},
+	{"cloze_1":"34ebc82fc5aa4afd4c5cdf33f7010e7d"},
+	{"cloze_1":"7522cbb99421d0eb2c316257b78ef4fa"},
+	{"cloze_1":"56128aae9e435f83b423dd43b6998420"},
+	{"cloze_1":"8d184f90ca716a2b1e58d4c574a76a45"},
+	{"cloze_1":"2f972f52c03ff7867fb0f7c0cd894e80"},
+	{"cloze_1":"ad2235a12b2b74a8f661fd75f926aa38"},
+	{"cloze_1":"5e95ecc1e5a1f9dfe78ec1b409cd5571"},
+	{"cloze_1":"776c0922b3eb8f5332abd7e387d21a36"},
+	{"cloze_1":"eb159cdb3608beea9e79caa17d1157c9"},
+	{"cloze_1":"833ef078c949e18bd68c3a5841e63f05"},
+	{"cloze_1":"de58893a7821e5289ed8673d2a034cc0"},
+	{"cloze_1":"9a6b787d008b79837cc66b6fb50ce6d7"},
+	{"cloze_1":"f20cfeeeb7e379d25485d3fff72ce55e"},
+	{"cloze_1":"e28f13470df47b4ce110dc5c487d77cd"},
+	{"cloze_1":"090ab9cf47e06874cde0e200f8f97bc5"},
+	{"cloze_1":"bb9aa23f9a0ee5fc7fd53b3ac8697359"},
+	{"cloze_1":"d7e773b4c41132fa5945dddd4177e71d"},
+	{"cloze_1":"a901c62aee74f4fb5f3e985a5d813980"},
+	{"cloze_1":"a6611c07eb15321fa2eea59810ad155c"},
+	{"cloze_1":"d6f50e01468655d023d9ceb95d885b7b"},
+	{"cloze_1":"8fd8dd7e6e52e35cccfaf57d60059993"},
+	{"cloze_1":"9fe9a5e6e59c06ac8a54431834cb4d68"},
+	{"cloze_1":"8d60fa6a45008c0df66926fffa64214f"},
+	{"cloze_1":"5ec87589503b9ad917fb0e53884335bb"},
+	{"cloze_1":"b1b9ca6767c73a32f3c6a66e80d15640"},
+	{"cloze_1":"1c9fe20e6f2b3c3e61719b8bf45ec314"},
+	{"cloze_1":"836f833a1b1fa64c3d462853dd293dc1"},
+	{"cloze_1":"a2e15ed2174f647e9aa87ccb6c291754"},
+	{"cloze_1":"5547a298d817a3d7cf58e12a200866b3"},
+	{"cloze_1":"a30285d561f7c263052a21b2bc137f09"},
+	{"cloze_1":"e3ff6348d2be716874357c62e94b083c"},
+	{"cloze_1":"a792efc7aaca5272829e8dfdc8b3cd52"},
+	{"cloze_1":"e0243b8e11003ebbef18a0cf735f431d"},
+	{"cloze_1":"a63ca9048318fb15c0a2d279f4cb5d79"},
+	{"cloze_1":"b03257201e5c716777355436cf648921"},
+	{"cloze_1":"7d70b48fac82c5906f53e11f4002942e"},
+	{"cloze_1":"aa566b1fdf8da2fddc1b375bd3c00db2"},
+	{"cloze_1":"858e4d15af3a310e7dfff084d9a6aec9"},
+	{"cloze_1":"b0ae3ea8571468b7993857b3b170e10d"},
+	{"cloze_1":"f72d73921593bb142a287389b905d07b"},
+	{"cloze_1":"f2a93340acfce3793f81553dd62e8ecb"},
+	{"cloze_1":"cb8e65f6d45d25da86eb81fc1c511659"},
+	{"cloze_1":"0302e2f15e9ac4e0eef3ce5c2a474572"},
+	{"cloze_1":"ab2841238d93be2620ccd5f96d2efab6"},
+	{"cloze_1":"8ebfd3b7b49d6681551f9e91f6c4e092"},
+	{"cloze_1":"6c6702f2d0e5002811762e47a6cd9d78"},
+	{"cloze_1":"32442eba6f1f7a30c784ad80b6f00c2b"},
+	{"cloze_1":"b8838ca33b64468c13b7dab459232844"},
+	{"cloze_1":"c7fb62fca0aba9dc09439f43e3298f21"},
+	{"cloze_1":"6b2d35052219ff2d8a46dc7592c8d7c5"},
+	{"cloze_1":"bc3ccb010c51ace5da04630390ca8b08"},
+	{"cloze_1":"79b91f8980821f8ea58d7770eb547237"},
+	{"cloze_1":"f5c2d01d3621fc2a1987574800d3b084"},
+	{"cloze_1":"ea8c944623a96faffb6956825e4bd5ab"},
+	{"cloze_1":"db16fd65f79eddcb79be04e0f56ce02e"},
+	{"cloze_1":"6e72a25b57baf447f62139322562865b"},
+	{"cloze_1":"d637371fa8041532250ca0e812668a00"},
+	{"cloze_1":"6ee8788da1966437577e7e8abd149b82"},
+	{"cloze_1":"c53dbada682b4059d77b01554306937c"},
+	{"cloze_1":"7f7b59c6113e4d3afbb557d0dea9f26d"},
+	{"cloze_1":"4608c4e17bb24900c6a90615503ba17d"},
+	{"cloze_1":"49ac946cbb78bcb7c94f0ebaf4be5ff9"},
+	{"cloze_1":"9f88a8adbd85b27d3a5cf720d5cfd9e1"},
+	{"cloze_1":"3ff26343b1e412accc2c3b049412075e"},
+	{"cloze_1":"83a26123b1fc91ffdc5508ef8f8c4af7"},
+	{"cloze_1":"606a8e9e0fb228cd70e31ad82b03f493"},
+	{"cloze_1":"495d0f7b6b1da869e164a46f7d422e0e"},
+	{"cloze_1":"e06c85d279c309c8332b3b0ea00589ed"},
+	{"cloze_1":"2974423f2b47a72981f811643455556c"},
+	{"cloze_1":"5cfaaed580f971c647889990825b1b73"},
+	{"cloze_1":"79f2b7794cd5d9c9f17373006f7ef16a"},
+	{"cloze_1":"db090444097e78584937d4580f6d709e"},
+	{"cloze_1":"ab01bad568faf7d8251403af3abd0ca5"},
+	{"cloze_1":"e361d14f8d4b42251b7be70d77f0de7f"},
+	{"cloze_1":"26d91aed48fee6b98c4cd3f52c350036"},
+	{"cloze_1":"11959307a7353fbac2556c5cda387dfb"},
+	{"cloze_1":"bca24a1b1163a3c5bba8f93c00cd865f"},
+	{"cloze_1":"cac85f32456cb3ccea903af9aad449af"},
+	{"cloze_1":"4fc218304484a4d78ab8024a84ee51d3"},
+	{"cloze_1":"ff33f68294c79a39ca64575034af2979"},
+	{"cloze_1":"8ede50a7deb9cd0ecaee9e80b7ef0771"},
+	{"cloze_1":"a34754839ac2b8d0b79ae7d70244ceb3"},
+	{"cloze_1":"92a4dec5ca85db5800c55a200babbbfa"},
+	{"cloze_1":"a89002e0acb811d442f0648f85df85b9"},
+	{"cloze_1":"1ef475c62632f43817b7bec53d464bbe"},
+	{"cloze_1":"c5293d15cf3c7a6526e2e95fe787b719"},
+	{"cloze_1":"21d8eb1daabfc900727082f4139f1b56"},
+	{"cloze_1":"6bdb9da6658581aac06eac48e6dc34d8"},
+	{"cloze_1":"2daa697a797e0c97bfe7b4830e2d8e27"},
+	{"cloze_1":"68ba89f58fdc4c3cdaf4d1d8df529e99"},
+	{"cloze_1":"ad9b16ae446a7f6f70cfadb7cbddeec1"},
+	{"cloze_1":"5111087f505b83e1bcdd2e479cee3664"},
+	{"cloze_1":"2885cd3db6b3a2444f2b08cb41307713"},
+	{"cloze_1":"56dae216aa851eafcdab51ce42e0e0e5"},
+	{"cloze_1":"2ad1e0fbab7134870fb7cb96c533d3c9"},
+	{"cloze_1":"587db37d0d5bbbc509ece7805c20eb9d"},
+	{"cloze_1":"de1add2d7eb569161adeca5b5aaefaaf"},
+	{"cloze_1":"31cb8732d1d96e51c5ec95a21e12083b"},
+	{"cloze_1":"0440d5fd92e6a74f5f942c0b462bf0a0"},
+	{"cloze_1":"c4023134e1a450f8bb7c984f2a2edad5"},
+	{"cloze_1":"f367e4c42ae208ea125afa05a0c27cac"},
+	{"cloze_1":"764deb40705aede922d6288dcc8d6e8a"},
+	{"cloze_1":"0e8b058ee83fb93b5241f81fb0d02a91"},
+	{"cloze_1":"4d6220355bf6ffd47485cf0fd0161f32"},
+	{"cloze_1":"843d3f234c2b95f4ae86e47d17e627e5"},
+	{"cloze_1":"b319b2c0d5a1c5977415bfbcf30dac71"},
+	{"cloze_1":"3fdf0e4a067f6e0cc73e8e4c911bbcb9"},
+	{"cloze_1":"e75ff40956111650e5f336537ecdcdcc"},
+	{"cloze_1":"14ad41b460c887a69b663632c372f71e"},
+	{"cloze_1":"321da4349da777526ee0fd7e55b4b973"},
+	{"cloze_1":"e8a8e4c80a14adcd0a7db7afad5ca484"},
+	{"cloze_1":"06f636fd65145cd36e15631fa8aaaac0"},
+	{"cloze_1":"141e6a717ce686ce2fedb7b2fce5282a"},
+	{"cloze_1":"6369f5071374a3927b599589ac4ab96a"},
+	{"cloze_1":"df1c0e54adf1b60bac9f54c0fbf23b5f"},
+	{"cloze_1":"342de0fe7d6c03977b082554210d81ab"},
+	{"cloze_1":"9cb9dd26d31456b6515feac1d60e75c2"},
+	{"cloze_1":"d85e1ed533ae719ea1762c0165f6cc61"},
+	{"cloze_1":"660504360c359dca15137c0341a38675"},
+	{"cloze_1":"3504c8599ce964686b8721b25eb4d947"},
+	{"cloze_1":"85a64827d80069e77f9587fd8557a67c"},
+	{"cloze_1":"ddc307921d327297cacc670ec0056ce1"},
+	{"cloze_1":"d6f878a7b8cb30efa0eda12e840d455f"},
+	{"cloze_1":"1ce7c2d1360637a9308e44ba573c32b3"}
+]
